@@ -1,7 +1,5 @@
-?a=login
 wp-content/plugins/elementor/
 wp-content/plugins/wp-filebase/
-?page=login
 wp-content/plugins/easy-wp-smtp
 servicedesk/customer/user/signup
 admin/login.php
@@ -157,7 +155,6 @@ certs/server.key
 console/login/LoginForm.jsp
 dtm.html
 jasperserver-pro/login.html
-?XDEBUG_SESSION_START=phpstorm
 jsps/testoperation.jsp
 config/device/wcd
 Jview
@@ -183,8 +180,6 @@ adfs/oauth2/authorize
 login.seam
 RichWidgets/Popup_Upload.aspx
 opac_css
-?op=register
-?q=user/password/
 woocommerce-exporter
 homej.html?
 eftclient/account/login.htm
@@ -415,14 +410,12 @@ index.htm
 mainFrame.cgi
 index.php?option=com_jsjobs
 DeclaranetPlusWebapp/
-?MAIN=DEVICE
 main.html
 wp-contentpluginsall-in-one-seo-pack
 SSI/index.htm
 frameprop.htm
 php-bin/webclient.php
 dana-cached/sc/
-?op=registration
 ./sws/index.sws
 WebResource.axd?d=
 sslvpn/Login/Login
@@ -514,7 +507,6 @@ index.php/admin/
 wp/wp-admin/
 identify/
 EasyPAY/view
-?action=login
 webArch/mainFrame
 Serviceability?adapter=device.statistics.configuration
 admin.login.php
@@ -705,7 +697,6 @@ RootFolder=
 AllItems.aspx?FolderCTID=
 q=user/password
 munin/localdomain/localhost.localdomain/open_files.html
-?db_backup
 paypal
 revslider
 fisheye
@@ -714,7 +705,6 @@ App.Config
 ..//drivers/etc/
 mjpg/video.cgi?resolution=
 bigdump.php
-?wp-commentsrss2.php
 servlet/ViewFormServlet?
 .well-known/security.txt
 mailscanner/login.php
@@ -739,7 +729,6 @@ intranet/login
 login.php?referer=profile.php
 form_id
 apps/backend/config/
-?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
 forms/frmservlet?config=
 gravity_forms/logs
 control/camerainfo
@@ -871,7 +860,6 @@ mjpgmain.asp
 calendar.google.com/calendar/embed?src=
 web/device/login?lang=1
 html/js/editor/ckeditor/
-?skipANDROID=true
 human.aspx?r=
 wp-content/wpclone-temp/wpclone_backup/
 sgdadmin/
@@ -1217,7 +1205,6 @@ dbbackup
 changelog
 filemanager/connectors/
 ajaxfilemanager.php
-?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
 proberv.php
 teraterm.ini
 web
