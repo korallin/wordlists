@@ -17872,7 +17872,6 @@ ctl00%24ContentPlaceHolder1%24TextBoxUserName
 ctl00%24ContentPlaceHolder1%24TextBoxSTUDENTID
 ctl00%24ContentPlaceHolder1%24TextBoxUSERREALNAME
 ctl00%24ContentPlaceHolder1%24ButtonResetPWD
-select * from tabs
 Cookie: VisitNum
 Searchtype
 __CALLBACKPARAM
@@ -19094,7 +19093,6 @@ wzbm
 to_user_id
 productvalue
 statusvalue
-select * from LZCARD
 ctk
 smsact
 useracc
@@ -20544,7 +20542,6 @@ _rc
 dabh
 sfzmhm
 platCataID
-<root><No>select CCS.CANDID,CCS.LEADRICH2,CET.EXREID,CCN.EXAM_DATE,CS.NAME,CE.EXAMNAME,CCN.DICTNAMEID,CDC.ID,CCN.NAME AS CCN_NAME,CET.EXAM_RESULTS,CCS.AUDIT_STATE,CASE CET.ISPASS WHEN '1' THEN 'éè¿' WHEN '0' THEN 'æªéè¿' ELSE '' END AS ISPASS,CASE CET.ISPUBLISH WHEN '1' THEN 'åå¸' WHEN '0' THEN 'æªåå¸' ELSE '' END AS ISPUBLISH  from CCF_CANDIDATE_STATE CCS JOIN CCF_STUDENT CS ON CCS.STUID
 submitfrom
 dzxm
 workNum
@@ -21159,8 +21156,6 @@ dfrom
 nsrName
 nsrList
 nameig
-select count(*) from lccont
-select sysdate from dual
 IG_current_menu_name
 IG_permission3
 IG_password
@@ -21990,9 +21985,6 @@ ctl00%24FeaturedContent%24DateReceived4
 ctl00%24FeaturedContent%24DropDownList1
 ctl00%24FeaturedContent%24yid
 ctl00%24FeaturedContent%24DateReceived1
-select * from all_users
-select * from v$version
-select TABLE_NAME,NUM_ROWS from tabs
 DealCode
 districtID
 jsonForm
