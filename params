@@ -5666,7 +5666,6 @@ CorpID
 uspm
 rrid
 Orders
-1+admin+123456+null+null
 detailsid
 curpid
 process
@@ -6738,7 +6737,6 @@ loadWhere
 wareInfoId
 progId
 1426492666
-@f_zhengxie_num
 Check
 seminarCode
 reporter
@@ -7377,7 +7375,6 @@ mk_id
 mainAutoNo
 gsbm
 psywy
-6853zqzEKiJ752Q4u4Y1ZJ/EutvuJThmTyhtF0Cw0AsCeE6P2br9fcG+FZr4bPogDP4pCCAdRWL17kWDcXP3uxIjFIDWHnf4feLSUvQr7ooB3WUQYe7mA6lcRFduANRTTc/yf9o3OEuEg5pDzUCMo/iNGbaaTEuyDww6F4iZdNjZs6HANTqUi68kY5Y1ZRDR0X0LTsNBaK9+L75qHjRi71xSgaObQKxoRlE/WVYJ6ksIG+2dpW0YA7ybJMgOLpg2WJSuSjDnqJToS3Sm2SXIULxRJIk1R3PBp6d8rFjZ4Y7MZfxU/L+d9YItFmO/qYM5ehfYCsevoEiczaUsNvyXx0XBi27DFzcUo+rWcRFG+Y7X8z50/MXQuFkEEj0ogCfjqXHqjgfd+PMp+BqAYg00eflhxqP5aLx6nEvm4JJOdGX8bE5pfD7VOsCEXFZSu5M
 seatname
 seatlowprice
 seatcode
@@ -8253,7 +8250,6 @@ doctorname
 outpatientDate
 dctm
 flashsaleproductid
-question/tag/+urlencode
 QU
 keySN
 clickButton
@@ -8600,7 +8596,6 @@ adv_abled
 flotNo
 ischecked
 fl1
-/c+net+user+admin+admin+/add
 mkt
 mainDBRecordId
 isOnlyview
@@ -10214,7 +10209,6 @@ weibo
 mkcode
 usermac
 userip
-0+0+0++unlink
 vTitle
 onlyView
 frienduin
@@ -11996,7 +11990,6 @@ contractheaderid
 computerno
 UUID
 final
- !preg_match($pattern, $value) 
  $length 
  ROUTE_A !
 nclass_id
@@ -12709,7 +12702,6 @@ stxt
 Values
 FlightID
 Redirect
- substr($result, 10, 16) 
 callerType
 acClientIp
 userCurrOrgId
@@ -12726,7 +12718,6 @@ yhname
 targetTitle
 targetT
 targetAction
-_POST
 a3Q
 bPU?detralondw/js101-20140215-52580145.shtm1
 bPU
@@ -14269,18 +14260,10 @@ BRAND
 CONSUME_GROUP
 CHIP
 NET_TYPE
-value(CONTRACT_PRICE)
 INTEGRAL_GEN
-value(SCREEN_SIZE)
 SKSD
-value(PDT_TYPE)
-value(orderByStr)
 IS_GIFT
-value(select_value)
-value(keyword)
 MSG_CARD
-value(SALE_PRICE)
-value(withPeomote)
 navSetId
 vtTopicId
 vtTopicFile
@@ -17110,8 +17093,6 @@ FlyToIata
 passportCardNo
 \
  $DT_IP 
- timetodate($DT_TIME, 3) !
- isset($wd) 
  $_username !
 locno
 lottery
@@ -17317,14 +17298,11 @@ tofakeid
 pageidx
 __VIEWSTATEGENERATOR
 txtUserName
-?>
 txtPwd
 }
 ScriptManager1
 Cookie: JSESSIONID
 __VIEWSTATEENCRYPTED
-<?xml version
-__ASYNCPOST
 btnLogin.x
 btnLogin.y
 Submit.x
@@ -17405,7 +17383,6 @@ F_domain
 back-end DBMS: MySQL 5.0.11
 RealName
 txtPWD
-<v:Envelope xmlns:i
 commit
 pager.pageNo
 ConfirmPassword
@@ -17544,7 +17521,6 @@ usb_code
 randvalue
 password_check
 autoScroll
-and (1)
 D3
 select[]
 randcode
@@ -17554,7 +17530,6 @@ _post_type
 confirmPassword
 imgLogin.x
 imgLogin.y
-exploit()
 BtnCancel.x
 BtnCancel.y
 txtxh1
@@ -17642,7 +17617,6 @@ ImageButton1
 reset
 indus_id
 indus_pid
-<head>
 loginSubmit
 acceptTime
 Cookie: VisitNum
@@ -17688,7 +17662,6 @@ OrgCity
 DesCity
 undefined
 tbPassword
-PCVldmFsIHJlcXVlc3QoImEiKSU+
 back-end DBMS: Microsoft SQL Server 2005
 txtPhone
 txtEndTime
@@ -17701,7 +17674,6 @@ questionStatus
 questionDateEnd
 questionDate
 METHOD
-(1)
 lxr
 TBEmail
 repeat_password
@@ -17721,7 +17693,6 @@ txtPASSWORD
 hangye
 experience
 R1
-<code>
 Connection: keep-alive
 sess_code
 F_CHANGED
@@ -17901,12 +17872,8 @@ btn_search
 submit1.y
 submit1.x
 contract
-<p class
 ctx
 YII_CSRF_TOKEN
-value(userName)
-value(password)
-value(entcode)
 did_all
 encryptedTelephone
 rember
@@ -18450,7 +18417,6 @@ _enc
 sTitle
 [23:21:31] [INFO] retrieved: A
 btnSave
-<soap:Envelope xmlns:xsi
 exchangLang
 apos;"" xmlns:xsd
 username[0]
@@ -18725,7 +18691,6 @@ agency.empNum
 agency.certificatePic
 ishost
 siteflag
-<request xmlns
 txtsylb
 txtsyyq
 txtsylx
@@ -19011,7 +18976,6 @@ cityCodeE
 districtCodeS
 provinceCodeS
 provinceCodeE
-<SOAP-ENV:Envelope xmlns:SOAP-ENV
 xToken
 formtype
 PING_DST
@@ -19026,7 +18990,6 @@ router_mac
 organizationId
 modelspace
 userform
-$db->insert($table, $info);
 crm_password
 crm_username
 ctyselect
@@ -19179,7 +19142,6 @@ Hpwd
 txtadminname
 button4
 txtadminpass
-sleep(1),0))
 11.56
 userNameInputId
 11.55
@@ -19230,7 +19192,6 @@ lUserText
 Xasa4a1a1afW
 lUserAge
 f1
-f.close()
 rq2
 rq1
 sell_source
@@ -19293,7 +19254,6 @@ AspNetPagerAll_input
 AspNetPagerAll
 btnToSubmit
 SecurityID
-back-end DBMS: MySQL >
 data[3][w]
 data[3][c]
 data[4][c]
@@ -19361,7 +19321,6 @@ Cookie: ……
 user_mail_tel
 1418007611954
 idcardno
-<post-data><method type
 txtUSERID
 radRunSystem
 radLanguage
@@ -19607,7 +19566,6 @@ jsk
 jsfs
 pars
 courseCode
-sleep(3),0)) and (1)
 jprice
 yprice
 available_tickets
@@ -19625,7 +19583,6 @@ system_release
 active_code
 screenpix
 pix
-login_status+
 dsBeginTm
 txtTutorName
 dsEndTm
@@ -19662,7 +19619,6 @@ usermemo
 AAE044
 only_lz
 sessionstr
-mysend(packet)
 new_pwd
 _type
 dataObj[type]
@@ -19842,7 +19798,6 @@ dtsRegDateS
 dtsrhStartDateS
 querydepartno
 discusstype
-#43;2
 search-input
 search-btn
 strCallUserCode
@@ -20282,7 +20237,6 @@ login_button
 utton1
 nList1
 hischeck1
-<soap:Envelope xmlns:soap
 item1
 IbtnEnter.y
 IbtnEnter.x
@@ -20578,7 +20532,6 @@ Fax
 UserPass2
 Mail
 seg
-pool.join()
 C_ParentId
 myemail
 mchk
@@ -20934,7 +20887,6 @@ user_real_name
 userpsw1
 btnConfirm
 f0b87b5
-POSTDATA: op
 wt_nian
 wt_qi
 wt_zz
@@ -21326,7 +21278,6 @@ DeletedReasonConcrete
 meetingNo
 get_password
 avatar_url
-+56
 txtNPwd1
 txtNPwd
 phoneNumId
@@ -21394,7 +21345,6 @@ maxResults
 firstResult
 myobj
 site_type
-) AND id !
 PING_COUNT
 OKBTN
 ENABLE_EXTERNAL_PING
@@ -21645,7 +21595,6 @@ sUserLogin
 txt_Validate
 submitlogin
 sUserPassword
-sys.stdout.write(buf)
 xtime
 xchannel
 xversioncode
@@ -21740,7 +21689,6 @@ orderCreateEndTime
 certifType
 certifStatus
 orderCreateBeginTime
-POST /index.php/ceo8/score_adds处这几个参数，还有type
 levelm
 regok
 searchGoodFormId
@@ -21963,7 +21911,6 @@ basePath
 operator_name
 opstatus
 operator_pwd
-C:\Python27\sqlmap>
 login_vercode
 login_email
 album_des
@@ -22742,7 +22689,6 @@ Grade
 strDate
 dbpass
 blogname
-0-0	-	0/0/24187	.	122.71	17262460	7	0.0	0.00	5.34	219.148.140.64	127.0.0.1	POST /uccommon/ HTTP/1.1
 smscheckcode
 jq_input_mobile
 Whoami
@@ -22798,7 +22744,6 @@ txtScreenWidth
 txtScreenAvailWidth
 notifypwd
 certcn
-#
 form1_SUBMIT
 device_model
 pkgId
@@ -22883,7 +22828,6 @@ obj_5
 obj_6
 v_userno
 obj_3
-Linux web-20166 2.6.18-194.el5xen #1 SMP Tue Mar 16 22:01:26 EDT 2010 x86_64 x86_64 x86_64 GNU/Linux
 clientloginType
 quickLoginName
 quickLoginPasscode
@@ -23132,7 +23076,6 @@ cont[field_email]
 info[field_idcard]
 hobb[field_english_scores]
 info[field_political_status]
-eregi("<span id
 parentIdTo
 if_system
 user_name_tex
@@ -54678,7 +54621,6 @@ VBSEO_ON_MORE
 VBSEO_PAGENUM_URI
 VBSEO_PAGENUM_URI_GARS
 VBSEO_PICID_URI
-VBSEO_POSTID_URI
 vbseo_redirect
 vbseorelpath
 vbseo_retrtitle
