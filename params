@@ -6867,7 +6867,6 @@ succpage
 tz
 HallID
 CustomerName
-xml version
 subOption
 identifyCode
 getMsgBack
@@ -8335,7 +8334,6 @@ FilterAttrAND
 ylzh
 grbh
 SetTaxis
- $k!
 trkNos
 itemvalue
 enrollmentId
@@ -11706,9 +11704,6 @@ contractheaderid
 computerno
 UUID
 final
- !preg_match($pattern, $value) 
- $length 
- ROUTE_A !
 nclass_id
 DOMAINID
 LANGUAGE
@@ -12363,7 +12358,6 @@ stxt
 Values
 FlightID
 Redirect
- substr($result, 10, 16) 
 callerType
 acClientIp
 userCurrOrgId
@@ -13824,18 +13818,10 @@ BRAND
 CONSUME_GROUP
 CHIP
 NET_TYPE
-value(CONTRACT_PRICE)
 INTEGRAL_GEN
-value(SCREEN_SIZE)
 SKSD
-value(PDT_TYPE)
-value(orderByStr)
 IS_GIFT
-value(select_value)
-value(keyword)
 MSG_CARD
-value(SALE_PRICE)
-value(withPeomote)
 navSetId
 vtTopicId
 vtTopicFile
@@ -16501,10 +16487,6 @@ dict_id
 FlyToIata
 passportCardNo
 \
- $DT_IP 
- timetodate($DT_TIME, 3) !
- isset($wd) 
- $_username !
 locno
 lottery
 1392684217
@@ -16704,7 +16686,6 @@ txtUserName
 txtPwd
 ScriptManager1
 __VIEWSTATEENCRYPTED
-<?xml version
 __ASYNCPOST
 txtEmail
 txt_UserName
@@ -16897,7 +16878,6 @@ usb_code
 randvalue
 password_check
 autoScroll
-and (1)
 D3
 select[]
 randcode
@@ -16905,7 +16885,6 @@ searchinput
 signuptype
 _post_type
 confirmPassword
-exploit()
 txtxh1
 drpyx
 dlistxq
@@ -16983,7 +16962,6 @@ ImageButton1
 reset
 indus_id
 indus_pid
-<head>
 loginSubmit
 acceptTime
 Searchtype
@@ -17034,7 +17012,6 @@ questionStatus
 questionDateEnd
 questionDate
 METHOD
-(1)
 lxr
 TBEmail
 repeat_password
@@ -17054,7 +17031,6 @@ txtPASSWORD
 hangye
 experience
 R1
-<code>
 sess_code
 F_CHANGED
 qudao
@@ -17219,12 +17195,8 @@ repage
 txbContent
 btn_search
 contract
-<p class
 ctx
 YII_CSRF_TOKEN
-value(userName)
-value(password)
-value(entcode)
 did_all
 encryptedTelephone
 rember
@@ -17307,7 +17279,6 @@ qiyeid
 txtAliasStart处存在注入
 performance_name
 sfzh参数存在sql注入
-参数sfzh 和 zgxm参数存在sql注入
 userFlag
 up_type
 txt_newpwd
@@ -17972,7 +17943,6 @@ masterid
 secondGrade
 ishost
 siteflag
-<request xmlns
 txtsylb
 txtsyyq
 txtsylx
@@ -18057,7 +18027,6 @@ citytwo
 cityone
 citythree
 txtloginid
-Access Query Errors
 areaname1
 areaname2
 s_date_CRtext
@@ -18372,7 +18341,6 @@ Hpwd
 txtadminname
 button4
 txtadminpass
-sleep(1),0))
 userNameInputId
 alertMsg
 confirmMsg
@@ -18539,7 +18507,6 @@ input_activecode
 user_mail_tel
 1418007611954
 idcardno
-<post-data><method type
 txtUSERID
 radRunSystem
 radLanguage
@@ -18767,7 +18734,6 @@ jsk
 jsfs
 pars
 courseCode
-sleep(3),0)) and (1)
 jprice
 yprice
 available_tickets
@@ -18819,7 +18785,6 @@ usermemo
 AAE044
 only_lz
 sessionstr
-mysend(packet)
 new_pwd
 _type
 dataObj[type]
@@ -19321,7 +19286,6 @@ txtFrameName
 cert_code
 cert_type
 rma
-参数account    使用sqlmap的时候必须加time-sec才能注入。
 ComboBox1_Value
 ComboBox1_SelIndex
 ComboBox1
@@ -19766,7 +19730,6 @@ visitUserId
 pltext
 coupons
 priceTotal
-| yejian       | f411c16058201360ce74fd1b9dce1370 |
 sfzjhmnan
 yyrq
 sfzjhmnv
@@ -20022,7 +19985,6 @@ OtherBankName
 OtherBankId
 btnLogon
 opass
-All Done
 flagda
 byyx
 metricName
@@ -20116,7 +20078,6 @@ friend[residecity]
 birthprovince
 tbUserPwd
 xdy_id
-and 1
 txtValue
 Text_User
 Text_PWD
@@ -20263,7 +20224,6 @@ SemesterID
 Submit422
 percredit
 credit
-where admin_id
 noreply
 makefeed
 seachvalue
@@ -20396,7 +20356,6 @@ maxResults
 firstResult
 myobj
 site_type
-) AND id !
 PING_COUNT
 OKBTN
 ENABLE_EXTERNAL_PING
@@ -20620,7 +20579,6 @@ Tyanzh
 Button
 Tadmpass
 TadmID
-imall_admin_user where admin_id
 async
 device_name
 toopenid
@@ -20936,7 +20894,6 @@ album_des
 album_type
 album_Competence
 album_title
-参数 pwd 和 uid
 comment[user_id]
 comment[comment]
 comment[type]
@@ -21559,7 +21516,6 @@ announceReadId
 eremite
 xuansave
 searchfor
-问题参数 block_id
 wp-submit
 f_pwd
 f_passid
@@ -21686,7 +21642,6 @@ searchareaid
 searchjobstr
 venderId
 signmethod
-|          |                 | 1      |
 file_source
 Comment
 flow_user_id
@@ -69024,7 +68979,6 @@ rubrique320
 sparzeit
 transactie
 unnr
-vl(freetext0)
 voertuigsoort
 volume_id
 listbybooth
@@ -69252,7 +69206,6 @@ webtag
 weergave
 xdurl
 yearfrom
-*urlencode(
 mobile_style
 196
 categoriafileid
@@ -75313,7 +75266,6 @@ site24
 troop_id
 url_ok
 varlist
-vl(1uistartwith0)
 webinar
 x_show_forum
 zoomtoposting
@@ -90365,7 +90317,6 @@ stednr
 subpagenumber
 topoteekki
 welcomevisitors
-_(_previousedition
 _pvsc
 _contenttypes
 _searchoptioncreated
@@ -93313,9 +93264,6 @@ url_web
 used_state
 usetabs
 utm_group
-value(kougicd)
-value(risyunen)
-value(semekikn)
 vanaf
 vehiclecategory
 vendedor
@@ -93790,7 +93738,6 @@ up_rolloverimage
 usecss
 usrm
 utm_target
-value(crclumcd)
 veranstalterid
 voidlanguage
 vwidth
