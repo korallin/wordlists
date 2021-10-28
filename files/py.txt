@@ -529,3 +529,5 @@ xheditor.py
 xheditor/__init__.py
 xheditor/xheditor.py
 zip.py
+test/fcgi/fcgi.py
+test/python/test.py
