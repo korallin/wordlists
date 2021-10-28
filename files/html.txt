@@ -9169,3 +9169,11 @@ sendresume.html
 mybooking.html
 person/info.html
 info/products/rightscontrol.html
+admin/adminLogin.html
+adminitem.html
+adminitems.html
+panel-administracion/login.html
+pages/admin/admin-login.html
+administratorlogin.html
+administrators.html
+supervise/Login.html
