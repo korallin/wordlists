@@ -93054,3 +93054,16 @@ test/fixtures/users.yml
 users.yml
 wercker.yml
 wp-cli.local.yml
+.bash_history
+.DS_Store
+.env
+.git/config
+.git/HEAD
+index.php::$DATA
+..;/manager
+;/..;/manager
+_proxy/adminer.php
+ReportServer/pages/ReportViewer.aspx
+.ssh/id_rsa
+.svn/entries
+.svn/wc.db
