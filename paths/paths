@@ -180473,3 +180473,17 @@ zoneinfo
 zsh
 zywebgl
 zzinf
+api/bff
+api/proxy
+api/v1
+api/v2
+api/v3
+app/webhooks
+bff
+_fragment
+;/..;/manager
+_profiler/phpinfo
+read_file
+service?Wsdl
+status?full=true
+swagger-ui
