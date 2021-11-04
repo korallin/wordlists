@@ -2291,3 +2291,5 @@ Accept-Push-Policy
 Accept-Signature
 Signed-Headers
 Service-Worker-Allowed
+X-Custom-IP-Authorization
+X-Real-IP
