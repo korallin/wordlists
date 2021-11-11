@@ -32452,7 +32452,6 @@ foo
 Reports
 __
 solr
-
 shutdown
 admin/info/system/auth
 admin/cores/auth
@@ -32821,7 +32820,6 @@ cgi-bin/fortune
 cgi-bin/redirect
 cgi-bin/uptime
 cgi-bin/wais.pl
-
 webtop/wdk/
 SilverStream
 signon
@@ -33510,7 +33508,6 @@ _vti_pvt/svacl.cnf
 _vti_pvt/writeto.cnf
 _vti_pvt/linkinfo.cnf
 isx.html
-
 cgi-bin/blog/mt-check.cgi
 mailman/admin/ml-name?\"><script>alert('Vulnerable')</script>;
 webalizer/
@@ -94141,3 +94138,10 @@ index.php/2012/02/foswiki-xss-vulrble/
 phpmyquote-020-version-multiple-sql-and-xss-vulne
 .cache_xqujmn.php
 phptest/xss.php
+/admin/index
+/admin/manage
+/admin/login
+/admin/default
+/admin
+.index.jsp.swp
+@dmin
