@@ -1,0 +1,1 @@
+ffuf -w http-methods:METHOD -w payloads:PAYLOAD -w headers:HEADER -u "https://streetcontxt.com/PAYLOAD" -H "HEADER:127.0.0.1" -X "METHOD"
