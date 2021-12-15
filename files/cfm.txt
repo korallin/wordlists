@@ -1599,3 +1599,6 @@ xnpending.cfm
 xnsearch.cfm
 your_info.cfm
 zsa2.cfm
+admincwc/fck/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm
+admincwc/fck/fckeditor.cfm
+admincwc/fck/fckutils.cfm
