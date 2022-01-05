@@ -854,3 +854,4 @@ ljcomputing.database.model.dot
 specified.boundaries.dot
 group.06.dot
 11.dot
+Binary file (standard input) matches
