@@ -9707,3 +9707,6 @@ crawler-worker.coffee.swp
 font-awesome-4.5.0.swp
 command.txt.swp
 pipeline.py.swp
+.wp-config.php.swp
+.keys.yml.swp
+.travis.yml.swp

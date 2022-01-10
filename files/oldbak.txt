@@ -50134,3 +50134,8 @@ initrd.img.old
 taot.old
 video.old
 ftp.old
+.ssh/known_hosts.old
+.env.old
+404.php.bak
+teams.bak
+cloud.bak

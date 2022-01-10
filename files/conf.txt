@@ -4217,3 +4217,15 @@ ibh.NeedRestart.System.conf
 1068_group_haldaemon.conf
 stereo3d.shutters.conf
 d_phpMyAdmin.conf
+vpns/cfg/smb.conf
+.bzr/branch/branch.conf
+proftpd.conf
+svnserve.conf
+plugins/weathermap/configs/poc.conf
+admin/redis.conf
+config/redis.conf
+install.conf
+database.conf
+secret.conf
+credential.conf
+phpMyAdmin-http.conf

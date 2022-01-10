@@ -687,3 +687,12 @@ dbf.h2.db
 37_dimer.db
 7.4.db
 08.16-11-49-00.flaskr.dump.db
+www.db
+.svn/wc.db
+Thumbs.db
+{{Host}}.db
+admin/..;/.svn/wc.db
+static/..;/.svn/wc.db
+static../.svn/wc.db
+admin../.svn/wc.db
+wc.db
