@@ -9710,3 +9710,5 @@ pipeline.py.swp
 .wp-config.php.swp
 .keys.yml.swp
 .travis.yml.swp
+bbs.config.inc.php.swp
+bbs/.config.inc.php.swp
