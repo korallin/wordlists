@@ -9712,3 +9712,14 @@ pipeline.py.swp
 .travis.yml.swp
 bbs.config.inc.php.swp
 bbs/.config.inc.php.swp
+hopefully404.swp
+localsettings.php.swp
+file_csv_datasourcetest.php.swp
+settings.swp
+wp-config.swp
+blog/wp-config.swp
+blog/wp-config.php.swp
+news/wp-config.php.swp
+news/wp-config.swp
+docs/wp-config.php.swp
+docs/wp-config.swp
