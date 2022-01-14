@@ -9723,3 +9723,6 @@ news/wp-config.php.swp
 news/wp-config.swp
 docs/wp-config.php.swp
 docs/wp-config.swp
+keys.yaml.swp
+keys.yml.swp
+s3.yml.swp
